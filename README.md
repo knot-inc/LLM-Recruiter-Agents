@@ -1,1 +1,17 @@
-This is a template to start node typescript project
+# LLM experiments
+
+## Predict industry from company name
+
+- Using ReAct and SerpAPI for prediction
+
+```
+pnpm ts-node --esm src/predict_industry.ts Tesla
+{ output: 'an automotive and energy company.' }
+
+pnpm ts-node --esm src/predict_industry.ts "PG&E"
+{ output: 'Utility company' }
+
+pnpm ts-node --esm src/predict_industry.ts Noxx https://noxx.xyz
+{ output: 'a payment and resume creation service.' }
+
+```
