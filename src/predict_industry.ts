@@ -22,7 +22,7 @@ const main = async () => {
     verbose: false,
   });
 
-  let input = `What is the category of business of this company? Answer only the category.\n Company name: ${companyName}`;
+  let input = `What is the category of business of this company? Answer only the category. If a website link is provided, use the link to make prediction, for example, search with "What does https://google.com do?".\n Company name: ${companyName}`;
   if (website) {
     input += `\n Website: ${website}`;
   }
