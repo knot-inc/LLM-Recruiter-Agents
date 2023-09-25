@@ -5,7 +5,7 @@ import { initializeAgentExecutorWithOptions } from "langchain/agents";
 import { OpenAI } from "langchain/llms/openai";
 import { StructuredOutputParser } from "langchain/output_parsers";
 import { PromptTemplate } from "langchain/prompts";
-import { SerpAPI } from "langchain/tools";
+import { GoogleCustomSearch } from "langchain/tools";
 
 const parser = StructuredOutputParser.fromNamesAndDescriptions({
   name: "Company name",
@@ -21,9 +21,9 @@ const prompt = new PromptTemplate({
 
 const model = new OpenAI({ temperature: 0 });
 const tools = [
-  new SerpAPI(process.env.SERPAPI_API_KEY, {
-    hl: "en",
-    gl: "us",
+  new GoogleCustomSearch({
+    googleCSEId: process.env.GOOGLE_CSE_ID,
+    apiKey: process.env.GOOGLE_API_KEY,
   }),
 ];
 
