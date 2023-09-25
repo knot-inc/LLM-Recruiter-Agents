@@ -54,6 +54,7 @@
     "testEnvironment": "node"
   },
   "dependencies": {
+    "airtable": "^0.12.2",
     "langchain": "^0.0.153"
   }
 }
