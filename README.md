@@ -15,3 +15,9 @@ pnpm ts-node --esm src/predict_industry.ts Noxx https://noxx.xyz
 { output: 'a payment and resume creation service.' }
 
 ```
+
+## Update Airtable Script
+
+```
+pnpm ts-node --esm src/update_airtable.ts
+```
