@@ -12,9 +12,9 @@ We are an early stage startup backed by prominent angels and VCs.
 
 ## Role and Responsibilities
 
-- You would be involved in full-stack application development
+- You would be involved in a full-stack application development
   - Dashboard with payroll/payment
-  - Batch transactions interacting with external services (KYC/Tax filing etc.)
+  - Batch transactions interacting with external services(KYC/Tax filing etc.)
   - Interacting with a blockchain network
 - You would lead projects to implement functionalities from scratch.
 
@@ -28,51 +28,45 @@ We are an early stage startup backed by prominent angels and VCs.
   - Experience in leading a team as a tech lead/project owner
 
 - Nice to have
-  - Experience in HR industry (e.g. Developed Application Tracking System)
+  - Experience in HR industry(e.g. Developed Application Tracking System)
 
 ### Technical Requirements
 
 - Frontend
-
   - Next.js(React) - Required
   - TypeScript - Required
-  - Tailwind CSS - Required
-  - Storybook - Optional
-  - wagmi.sh - Optional
-
+  - Tailwind CSS
+  - Storybook
+  - wagmi.sh
 - Web3
-
-  - Solidity(foundry-rs) - Optional
-  - IPFS - Optional
-  - Noir(zero knowledge proof) - Optional
-
+  - Solidity(foundry-rs) - Required
+  - IPFS
+  - Noir(zero knowledge proof)
 - Backend
-
   - AWS CDK - Required
   - AWS Lambda - Required
-  - GraphQL - Optional
-  - Cognito - Required
-  - DynamoDB - Optional
-  - PostgreSQL - Optional
-  - S3 - Optional
-  - Auth0 - Optional
-  - AppSync - Optional
-  - AWS Aurora - Optional
-  - OpenIDConnect - Optional
-  - Docker - Optional
-  - Go-lang - Optional
-  - Rust - Optional
-
+  - GraphQL - Required
+  - Cognito
+  - DynamoDB - Required
+  - PostgreSQL
+  - S3
+  - Auth0 - Required
+  - AppSync
+  - AWS Aurora
+  - OpenIDConnect
+  - Docker
+  - Go-lang
+  - Rust
 - Toolings
-  - Git - Optional
-  - Git workflow - Optional
-  - yarn v2 - Optional
-  - Figma - Optional
+  - Git
+  - Git workflow
+  - yarn v2
+  - Figma
 
 ## Probationary period
 
 - While maintaining another full-time job, you can work part-time with us for 10-20 hours per week during the 1 month to ensure that you are a good fit for our culture.
-- If you choose to continue working with Noxx after the first month, we will ask you to transition to full-time.
+- If you choose to continue working with Noxx after the first months, we will ask you to transition to full-time.
 - In the probationary period, we evaluate
   - Deliverables and contributions to the team
   - Communication skills
@@ -81,14 +75,14 @@ We are an early stage startup backed by prominent angels and VCs.
 
 - Location: remote (Must overlap 5+ hours with PT timezone(UTC−08))
 - Commitment: full-time
-- Team meetings
+- team meetings
   - 20 min Daily sync (Mon - Friday)
-  - All-hands (once a week)
+  - All-hands (once in a week)
 
 ## How to apply
 
 - Apply from [here](https://airtable.com/appCtMM5bG3zNPKG0/shrocrIvvqauPn73z)
-- Take an assessment test. The assessment takes approximately 60 min. Questions are related to debugging in TypeScript, Node.js, and AWS. [Assessment Test](https://bit.ly/noxx-assessment)
+- Take an assessment test. The assessment takes approximately 60 min. Questions are related to debugging in TypeScript, Node.js and AWS. [Assessment Test](https://bit.ly/noxx-assessment)
 
 Thanks,
 

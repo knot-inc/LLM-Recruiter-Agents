@@ -87,6 +87,7 @@ const main = async () => {
       console.log("File does not exist");
       return;
     }
+    console.log("loading document ...");
     const loader = new TextLoader(path);
     const docs = await loader.load();
     const jd = docs[0].pageContent;
@@ -100,7 +101,7 @@ const main = async () => {
     await memory.saveContext(initialInput, {
       output: response,
     });
-    console.log("===== questions to ask =====");
+
     const list = JSON.parse(response.content);
 
     // Asking questions for all technologies
@@ -124,19 +125,21 @@ const main = async () => {
     };
 
     const listResponse = await chain.invoke(listInput);
-    const choices = JSON.parse(listResponse.content).map((e) => {
+    const choices = JSON.parse(listResponse.content).map((e: string) => {
       return {
         name: e,
         value: e,
       };
     });
-    const result = checkbox({
+    const result = await checkbox({
       message: `${requiredQuestion}: `,
       choices,
     });
 
+    console.log("Updating job description ...");
+
     const qInput = {
-      input: `The answer to ${requiredQuestion} is: ${result}`,
+      input: `${result} are required skills.`,
     };
     const res = await chain.invoke(qInput);
     await memory.saveContext(qInput, {
@@ -145,11 +148,18 @@ const main = async () => {
 
     const finalInput = {
       input:
-        "Based on the answers, update the job description with technical requirements. Technical requirements should have the following format: {skill} - {required or optional}",
+        "Based on the answers, update the job description with technical requirements. If a skill is required, mention that in the job description. Technical requirements should have the following format: {skill} - {required or optional}",
     };
     const finalResponse = await chain.invoke(finalInput);
-    console.log("===== refined output =====");
-    console.log(finalResponse.content);
+
+    // Write the output to a file
+    const extension = path.split(".").pop();
+    const outputPath = path.replace(`.${extension}`, `_refined.${extension}`);
+
+    fs.writeFile(outputPath, finalResponse.content, (err) => {
+      if (err) throw err;
+      console.log("Output saved to file!");
+    });
   } catch (error) {
     console.log(error);
   }
