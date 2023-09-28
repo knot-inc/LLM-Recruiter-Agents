@@ -51,7 +51,7 @@ export const run = async () => {
     console.log("creating vector store...");
     /*create and store the embeddings in the vectorStore*/
     const embeddings = new OpenAIEmbeddings({
-      openAIApiKey: "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",
+      openAIApiKey: process.env.OPENAI_API_KEY,
     });
     // const index = pinecone.Index(PINECONE_INDEX_NAME); //change to your own index name
 
@@ -59,7 +59,7 @@ export const run = async () => {
 
     const model = new ChatOpenAI({
       modelName: "gpt-3.5-turbo",
-      openAIApiKey: "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",
+      openAIApiKey: process.env.OPENAI_API_KEY,
     });
 
     const chain = RetrievalQAChain.fromLLM(model, vectorStore.asRetriever());
