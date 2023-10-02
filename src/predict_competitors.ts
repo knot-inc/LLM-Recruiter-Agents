@@ -42,7 +42,7 @@ const main = async () => {
   const website = process.argv[3];
 
   const executor = await initializeAgentExecutorWithOptions(tools, model, {
-    agentType: "chat-zero-shot-react-description", // https://github.com/langchain-ai/langchain/issues/1559
+    agentType: "chat-zero-shot-react-description", // Allowing to use tools properly https://github.com/langchain-ai/langchain/issues/1559
     verbose: false,
   });
 
