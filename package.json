@@ -54,6 +54,7 @@
     "testEnvironment": "node"
   },
   "dependencies": {
+    "@inquirer/prompts": "^3.1.2",
     "airtable": "^0.12.2",
     "langchain": "^0.0.153"
   }
