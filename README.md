@@ -21,3 +21,14 @@ pnpm ts-node --esm src/predict_industry.ts Noxx https://noxx.xyz
 ```
 pnpm ts-node --esm src/update_airtable.ts
 ```
+
+## Review coverletter
+
+Review coverletter and give matching scores to the job description
+
+- Add jd.json under `src/test/`
+- add `cover_letter_xx.txt` under `src/test/` and run:
+
+```
+NODE_NO_WARNINGS=1 pnpm ts-node --esm src/cover_letter_review.ts
+```
