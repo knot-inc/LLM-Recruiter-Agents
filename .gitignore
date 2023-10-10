@@ -28,3 +28,5 @@ yarn-error.log*
 
 src/test/cover_letter_**.txt
 src/test/**_vector_store
+resume/
+out/
