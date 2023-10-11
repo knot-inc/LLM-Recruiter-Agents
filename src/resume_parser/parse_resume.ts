@@ -46,7 +46,10 @@ export const parseResume = async (filepath: string): Promise<Resume> => {
   if (fs.existsSync(outDir) === false) {
     fs.mkdirSync(outDir);
   }
-  const fileName = path.basename(filepath).replace(".pdf", ".json");
+  const fileName = path
+    .basename(filepath)
+    .replaceAll(".pdf", ".json")
+    .replaceAll(".docx", ".json");
 
   fs.writeFileSync(path.join(outDir, fileName), JSON.stringify(resume));
   return resume;

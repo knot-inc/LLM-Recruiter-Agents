@@ -15,7 +15,7 @@ const main = async () => {
   const resumes = fs.readdirSync(resumesDir);
   const parsedResumes: { filename: string; resume: Resume }[] = [];
   for (const resume of resumes) {
-    if (resume.endsWith(".pdf")) {
+    if (resume.endsWith(".pdf") || resume.endsWith(".docx")) {
       console.log(`Parsing ${resume}`);
       parsedResumes.push({
         filename: resume,
@@ -26,13 +26,20 @@ const main = async () => {
 
   // const resumesDir = path.join(`${__dirname}/../../out`);
   // const resumes = fs.readdirSync(resumesDir);
-  // const parsedResumes: ResumeData[] = [];
+  // const parsedResumes: { filename: string; resume: Resume }[] = [];
   // for (const resume of resumes) {
   //   if (resume.endsWith(".json")) {
-  //     console.log(`Parsing ${resume}`);
-  //     parsedResumes.push(fs.readFileSync(path.join(resumesDir, resume))));
+  //     console.log(`${resume}`);
+
+  //     const buffer = fs.readFileSync(path.join(resumesDir, resume));
+  //     const resumeJson = JSON.parse(buffer.toString());
+  //     parsedResumes.push({
+  //       filename: resume,
+  //       resume: resumeJson,
+  //     });
   //   }
   // }
+
   // put it in to a csv format
   const v = [];
   for (const parseRes of parsedResumes) {
@@ -47,7 +54,7 @@ const main = async () => {
       continue;
     }
     const resume = parseRes.resume.ResumeData;
-    const email = resume.ContactInformation.EmailAddresses[0];
+    const email = (resume.ContactInformation.EmailAddresses || [""])[0];
     const github = resume.ContactInformation.WebAddresses?.find(
       (x) => x.Type === "GitHub",
     )?.Address;
@@ -57,6 +64,7 @@ const main = async () => {
     const portfolio = resume.ContactInformation.WebAddresses?.find(
       (x) => x.Type === "PersonalWebsite",
     )?.Address;
+    const workSummary = resume.EmploymentHistory.ExperienceSummary;
     const totalWorkExperience =
       resume.EmploymentHistory.ExperienceSummary.MonthsOfWorkExperience;
     const workExperiences = resume.EmploymentHistory.Positions?.map((p) => {
@@ -69,8 +77,9 @@ const main = async () => {
         description: p.Description?.replaceAll("\n", " ") || "unknown",
       };
     });
-    const skills = resume.Skills.Normalized?.filter((s) =>
-      s.FoundIn.some((skill) => skill.SectionType === "SKILLS"),
+    const skills = resume.Skills.Normalized?.filter(
+      (s) =>
+        s.FoundIn?.some((skill) => skill.SectionType === "SKILLS") || false,
     ).map((s) => {
       return s.Name;
     });
@@ -81,6 +90,7 @@ const main = async () => {
       portfolio,
       totalWorkExperience,
       workExperiences,
+      workSummary,
       skills,
     });
   }

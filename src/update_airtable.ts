@@ -13,7 +13,7 @@ dotenv.config();
 // Personal Access Token
 const AIRTABLE_API_KEY = process.env.AIRTABLE_API_KEY;
 const RECUITMENT_POC_BASE_ID = "appCtMM5bG3zNPKG0";
-const JOB_APPLICANTS_TABLE_ID = "tbl4tUbCI0OkJEIKV";
+const JOB_APPLICANTS_TABLE_ID = "tblVpRVlakznsJbpu";
 
 type updateAirtableRecordParams = {
   email: string;
@@ -65,7 +65,7 @@ const updateAirtableRecord = async (params: updateAirtableRecordParams) => {
   base(tableId);
   if (records && records.length > 0) {
     const recordId = records[0].getId();
-    console.log(recordId, fields);
+    // console.log(recordId, fields);
     // Now use the retrieved ID to update the record.
     base(tableId).update([
       {
@@ -74,7 +74,7 @@ const updateAirtableRecord = async (params: updateAirtableRecordParams) => {
       },
     ]);
 
-    console.log("Done.");
+    console.log("Done: " + email);
   } else {
     console.log("No record found for the email:", email);
   }
@@ -90,8 +90,9 @@ const main = async () => {
 
   // create fields (required only once)
   // const fields = {
+  //   WorkSummary: "multilineText",
   //   Portfolio: "url",
-  //   "Total Work Experience(year)": "number",
+  //   "Years of Experience": "number",
   //   "Work Experiences": "multilineText",
   //   Skills: "multilineText",
   // };
@@ -101,10 +102,11 @@ const main = async () => {
     await updateAirtableRecord({
       email,
       fields: {
+        WorkSummary: resume.workSummary.Description.replaceAll("\n", "<br>"),
         Portfolio: resume.portfolio,
         "Years of Experience": Math.round(resume.totalWorkExperience / 12),
         "Work Experiences": JSON.stringify(resume.workExperiences, null, 2),
-        Skills: resume.skills.join(", "),
+        Skills: (resume.skills || [""]).join(", "),
       },
       tableId: JOB_APPLICANTS_TABLE_ID,
     });
