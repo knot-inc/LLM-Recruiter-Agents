@@ -263,6 +263,9 @@ export interface ParsedResume {
   portfolio?: string;
   totalWorkExperience: number;
   workExperiences: WorkExperience[];
+  workSummary: {
+    Description: string;
+  };
   skills: string[];
 }
 
