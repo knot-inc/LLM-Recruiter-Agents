@@ -277,3 +277,17 @@ export interface WorkExperience {
   company: string;
   description: string;
 }
+
+export interface SkillCount {
+  skill: {
+    skill: string;
+    weight: number;
+  };
+  count: number;
+}
+
+export interface SkillScore {
+  email: string;
+  skillCounts: SkillCount[];
+  skillCountsAverage: number;
+}
