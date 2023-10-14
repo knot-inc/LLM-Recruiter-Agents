@@ -267,6 +267,7 @@ export interface ParsedResume {
     Description: string;
   };
   skills: string[];
+  companies: string[];
 }
 
 export interface WorkExperience {

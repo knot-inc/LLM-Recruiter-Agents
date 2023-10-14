@@ -1,0 +1,808 @@
+{
+  "Skills": {
+    "Normalized": [
+      {
+        "Name": "Amazon Web Services",
+        "Id": "KS120FG6YP8PQYYNQY9B",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-1"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-4"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 29
+        },
+        "LastUsed": {
+          "Value": "2023-10-09"
+        },
+        "RawSkills": ["AWS"]
+      },
+      {
+        "Name": "Architecture",
+        "Id": "KS120MF71H5Z21ZTCHY1",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-1"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-3"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 27
+        },
+        "LastUsed": {
+          "Value": "2023-10-09"
+        },
+        "RawSkills": ["architecture"]
+      },
+      {
+        "Name": "Automation",
+        "Id": "KS120SQ5W4Q57JMD2Y81",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-1"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 9
+        },
+        "LastUsed": {
+          "Value": "2023-10-09"
+        },
+        "RawSkills": ["automate"]
+      },
+      {
+        "Name": "Node.Js",
+        "Id": "KS127296VDYS7ZFWVC46",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-7"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 15
+        },
+        "LastUsed": {
+          "Value": "2023-01-01"
+        },
+        "RawSkills": ["Node", "Node.js"]
+      },
+      {
+        "Name": "Accounting Control",
+        "Id": "KSVYVI1MEFWGCHE5L7BD",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-1"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 9
+        },
+        "LastUsed": {
+          "Value": "2023-10-09"
+        },
+        "RawSkills": ["statement analysis."]
+      },
+      {
+        "Name": "Bank Statements",
+        "Id": "KS120WS63LRYQZ1CCMPG",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-1"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 9
+        },
+        "LastUsed": {
+          "Value": "2023-10-09"
+        },
+        "RawSkills": ["bank statement"]
+      },
+      {
+        "Name": "NestJS",
+        "Id": "KSSUVCCJI2VPAZ1LKBG5",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 5
+        },
+        "LastUsed": {
+          "Value": "2023-01-01"
+        },
+        "RawSkills": ["Nest.js"]
+      },
+      {
+        "Name": "Redis",
+        "Id": "KS128G66RG96FZNHFCXY",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 5
+        },
+        "LastUsed": {
+          "Value": "2023-01-01"
+        },
+        "RawSkills": ["Redis"]
+      },
+      {
+        "Name": "WebSocket",
+        "Id": "KS4420J76GFLNLCJYPH9",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 5
+        },
+        "LastUsed": {
+          "Value": "2023-01-01"
+        },
+        "RawSkills": ["Websockets"]
+      },
+      {
+        "Name": "Application Programming Interfaces (APIs)",
+        "Id": "KS1208P6ZMZ4N872Y7X5",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 5
+        },
+        "LastUsed": {
+          "Value": "2023-01-01"
+        },
+        "RawSkills": ["API", "APIs"]
+      },
+      {
+        "Name": "Caching",
+        "Id": "KSD755FNEAMXAM5I4YLJ",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 5
+        },
+        "LastUsed": {
+          "Value": "2023-01-01"
+        },
+        "RawSkills": ["caching"]
+      },
+      {
+        "Name": "Push Technology",
+        "Id": "KS124V75XDCT50MJXFT3",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 5
+        },
+        "LastUsed": {
+          "Value": "2023-01-01"
+        },
+        "RawSkills": ["push notification"]
+      },
+      {
+        "Name": "RabbitMQ",
+        "Id": "KS128BL6BPTLYCNXSGRS",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 5
+        },
+        "LastUsed": {
+          "Value": "2023-01-01"
+        },
+        "RawSkills": ["RabbitMQ"]
+      },
+      {
+        "Name": "Remote File Sharing",
+        "Id": "KS128J76RFBL82BSTH9Q",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 5
+        },
+        "LastUsed": {
+          "Value": "2023-01-01"
+        },
+        "RawSkills": ["file sharing"]
+      },
+      {
+        "Name": "Typing Skills",
+        "Id": "KS441LG5Y8XGW9TP7B4W",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 5
+        },
+        "LastUsed": {
+          "Value": "2023-01-01"
+        },
+        "RawSkills": ["typing"]
+      },
+      {
+        "Name": "Recruitment",
+        "Id": "KS124QQ77M8G28BFV55X",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-2"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 5
+        },
+        "LastUsed": {
+          "Value": "2023-01-01"
+        },
+        "RawSkills": ["sourcing"]
+      },
+      {
+        "Name": "Backend",
+        "Id": "KSFFZBDYXH5XA5QE4E7I",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-3"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 13
+        },
+        "LastUsed": {
+          "Value": "2021-03-01"
+        },
+        "RawSkills": ["Backend"]
+      },
+      {
+        "Name": "Front End Software Development",
+        "Id": "KSQ4V3A6FGYT0MLOOUEX",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-3"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 13
+        },
+        "LastUsed": {
+          "Value": "2021-03-01"
+        },
+        "RawSkills": ["Front-end", "Frontend"]
+      },
+      {
+        "Name": "TypeScript",
+        "Id": "KS441LF7187KS0CV4B6Y",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-4"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 20
+        },
+        "LastUsed": {
+          "Value": "2020-11-01"
+        },
+        "RawSkills": ["Typescript"]
+      },
+      {
+        "Name": "Creating Prototypes",
+        "Id": "KS1285T645JRKKFWSV0W",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-3"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 13
+        },
+        "LastUsed": {
+          "Value": "2021-03-01"
+        },
+        "RawSkills": ["prototypes"]
+      },
+      {
+        "Name": "Integration Tests",
+        "Id": "KSJ7ZUMIPAZ7YQ4CPKOT",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-4"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 20
+        },
+        "LastUsed": {
+          "Value": "2020-11-01"
+        },
+        "RawSkills": ["integration testing"]
+      },
+      {
+        "Name": "React Redux",
+        "Id": "KSQOOX1S2DYD0E1VVZ5X",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-4"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 20
+        },
+        "LastUsed": {
+          "Value": "2020-11-01"
+        },
+        "RawSkills": ["Redux"]
+      },
+      {
+        "Name": "Unit Testing",
+        "Id": "KS120SX72T8B5VLXS1VN",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-4"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 20
+        },
+        "LastUsed": {
+          "Value": "2020-11-01"
+        },
+        "RawSkills": ["unit testing"]
+      },
+      {
+        "Name": "User Experience",
+        "Id": "KS1202B652YN84D9KXMX",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-4"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 20
+        },
+        "LastUsed": {
+          "Value": "2020-11-01"
+        },
+        "RawSkills": ["UX"]
+      },
+      {
+        "Name": "Stakeholder Management",
+        "Id": "KS440XG6F9DTD3VG7JTV",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-3"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 13
+        },
+        "LastUsed": {
+          "Value": "2021-03-01"
+        },
+        "RawSkills": ["stakeholders"]
+      },
+      {
+        "Name": "JavaScript (Programming Language)",
+        "Id": "KS1200771D9CR9LB4MWW",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-7"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 10
+        },
+        "LastUsed": {
+          "Value": "2018-01-31"
+        },
+        "RawSkills": ["JavaScript"]
+      },
+      {
+        "Name": "MongoDB",
+        "Id": "KS126PF6PJY1N0ZX5R0P",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-7"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 10
+        },
+        "LastUsed": {
+          "Value": "2018-01-31"
+        },
+        "RawSkills": ["MongoDB"]
+      },
+      {
+        "Name": "React Native",
+        "Id": "KSPSGF5MXB6568UIQ4BK",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-6"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 11
+        },
+        "LastUsed": {
+          "Value": "2019-01-01"
+        },
+        "RawSkills": ["React Native"]
+      },
+      {
+        "Name": "ReactJS",
+        "Id": "KS9E9SUSTX6U1ESK796U",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          },
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-7"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 10
+        },
+        "LastUsed": {
+          "Value": "2018-01-31"
+        },
+        "RawSkills": ["React"]
+      },
+      {
+        "Name": "Cascading Style Sheets (CSS)",
+        "Id": "KS121F45VPV8C9W3QFYH",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-7"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 10
+        },
+        "LastUsed": {
+          "Value": "2018-01-31"
+        },
+        "RawSkills": ["CSS"]
+      },
+      {
+        "Name": "Elasticsearch",
+        "Id": "KS123CZ6V1JC5FBNXX42",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          }
+        ],
+        "RawSkills": ["Elastic Search"]
+      },
+      {
+        "Name": "Graphql",
+        "Id": "KSOPDDN3W5WZ7TE785BL",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          }
+        ],
+        "RawSkills": ["GraphQL"]
+      },
+      {
+        "Name": "HTML5",
+        "Id": "KS120RM619V18NJXTHV1",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-7"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 10
+        },
+        "LastUsed": {
+          "Value": "2018-01-31"
+        },
+        "RawSkills": ["HTML5"]
+      },
+      {
+        "Name": "Jasmine",
+        "Id": "KSX8AJG1M00B2EYZKRTA",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          }
+        ],
+        "RawSkills": ["Jasmine"]
+      },
+      {
+        "Name": "Material UI",
+        "Id": "KSIYVZ9FP3HS8Z29QJ4D",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          }
+        ],
+        "RawSkills": ["Material UI"]
+      },
+      {
+        "Name": "Programming Languages",
+        "Id": "KSZUL40VYT2KEP9E6YPH",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          }
+        ],
+        "RawSkills": ["Programming Language"]
+      },
+      {
+        "Name": "Software Bug Management",
+        "Id": "KS1217M60JZHC0G3DQYW",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-6"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 11
+        },
+        "LastUsed": {
+          "Value": "2019-01-01"
+        },
+        "RawSkills": ["bug fixes"]
+      },
+      {
+        "Name": "Software Engineering",
+        "Id": "KS440QS66YCBN23Y8K25",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-7"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 10
+        },
+        "LastUsed": {
+          "Value": "2018-01-31"
+        },
+        "RawSkills": ["software development"]
+      },
+      {
+        "Name": "Tailwind",
+        "Id": "KS8J4ATW5ATG3ZUTGVQ5",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "SKILLS"
+          }
+        ],
+        "RawSkills": ["Tailwind CSS"]
+      },
+      {
+        "Name": "Web Development",
+        "Id": "KS122Z36QK3N5097B5JH",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-7"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 10
+        },
+        "LastUsed": {
+          "Value": "2018-01-31"
+        },
+        "RawSkills": ["web development"]
+      },
+      {
+        "Name": "Microsoft PowerPoint",
+        "Id": "KS127ZG6DBSF76WF7VYX",
+        "Type": "IT",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-7"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 10
+        },
+        "LastUsed": {
+          "Value": "2018-01-31"
+        },
+        "RawSkills": ["PowerPoint"]
+      },
+      {
+        "Name": "Mail Services",
+        "Id": "KS6B1O6GZ4NY680714K2",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-5"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 3
+        },
+        "LastUsed": {
+          "Value": "2019-08-01"
+        },
+        "RawSkills": ["parcel"]
+      },
+      {
+        "Name": "Property Management",
+        "Id": "KS123NJ76GJLK91JS75M",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-5"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 3
+        },
+        "LastUsed": {
+          "Value": "2019-08-01"
+        },
+        "RawSkills": ["property management software"]
+      },
+      {
+        "Name": "Bootcamp",
+        "Id": "KSQF9IWQHRJJ6EU7ALHU",
+        "Type": "Professional",
+        "FoundIn": [
+          {
+            "SectionType": "WORK HISTORY",
+            "Id": "POS-7"
+          }
+        ],
+        "MonthsExperience": {
+          "Value": 10
+        },
+        "LastUsed": {
+          "Value": "2018-01-31"
+        },
+        "RawSkills": ["Bootcamp"]
+      }
+    ]
+  }
+}

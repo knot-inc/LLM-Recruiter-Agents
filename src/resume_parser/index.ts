@@ -4,6 +4,8 @@ import dotenv from "dotenv";
 import { parseResume } from "./parse_resume.js";
 import { fileURLToPath } from "url";
 import { Resume } from "./resumeType.js";
+import { calculateMonthsBetweenDates } from "./calculate_workmonth.js";
+import { calculateValidSkills } from "./calculate_skills.js";
 
 dotenv.config();
 const __filename = fileURLToPath(import.meta.url);
@@ -11,7 +13,7 @@ const __dirname = dirname(__filename);
 
 const main = async () => {
   // load resumes from `resume` folder and parse them
-  const resumesDir = path.join(`${__dirname}/../../resume`);
+  const resumesDir = path.join(`${__dirname}/../../resume/test`);
   const resumes = fs.readdirSync(resumesDir);
   const parsedResumes: { filename: string; resume: Resume }[] = [];
   for (const resume of resumes) {
@@ -40,7 +42,7 @@ const main = async () => {
   //   }
   // }
 
-  // put it in to a csv format
+  // put it in to a json format
   const v = [];
   for (const parseRes of parsedResumes) {
     if (
@@ -68,21 +70,24 @@ const main = async () => {
     const totalWorkExperience =
       resume.EmploymentHistory.ExperienceSummary.MonthsOfWorkExperience;
     const workExperiences = resume.EmploymentHistory.Positions?.map((p) => {
+      const months = calculateMonthsBetweenDates(
+        p.StartDate?.Date,
+        p.EndDate?.Date,
+      );
       return {
-        id: p.Id,
+        id: Number(p.Id.replace("POS-", "")),
         startDate: p.StartDate?.Date || "unknown",
         endDate: p.EndDate?.Date || "unknown",
+        months,
         title: p.JobTitle?.Normalized || "unknown",
         company: p.Employer?.Name?.Normalized || "unknown",
         description: p.Description?.replaceAll("\n", " ") || "unknown",
       };
-    });
-    const skills = resume.Skills.Normalized?.filter(
-      (s) =>
-        s.FoundIn?.some((skill) => skill.SectionType === "SKILLS") || false,
-    ).map((s) => {
-      return s.Name;
-    });
+    })
+      .sort((a, b) => a.id - b.id)
+      .slice(0, 3);
+    const companies = workExperiences.map((w) => w.company);
+    const skills = calculateValidSkills(resume);
     v.push({
       email,
       github,
@@ -92,11 +97,12 @@ const main = async () => {
       workExperiences,
       workSummary,
       skills,
+      companies,
     });
   }
 
   // write it to a file
-  const outDir = path.join(`${__dirname}/../../out/`);
+  const outDir = path.join(`${__dirname}/../../out/test`);
   if (fs.existsSync(outDir) === false) {
     fs.mkdirSync(outDir);
   }
