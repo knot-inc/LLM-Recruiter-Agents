@@ -18,8 +18,9 @@ export function calculateValidSkills(resume: ResumeData): string[] {
       (s) =>
         s.FoundIn?.some(
           (f) =>
-            f.SectionType === "WORK HISTORY" &&
-            Number(f.Id.replace("POS-", "")) <= 3,
+            (f.SectionType === "WORK HISTORY" &&
+              Number(f.Id?.replace("POS-", ""))) ||
+            Number.MAX_VALUE <= 3,
         ),
     )
     .map((s) => s.Name);

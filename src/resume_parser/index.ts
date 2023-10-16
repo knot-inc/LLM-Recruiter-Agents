@@ -13,9 +13,10 @@ const __dirname = dirname(__filename);
 
 const main = async () => {
   // load resumes from `resume` folder and parse them
-  const resumesDir = path.join(`${__dirname}/../../resume/test`);
+  const resumesDir = path.join(`${__dirname}/../../resume/glasp`);
   const resumes = fs.readdirSync(resumesDir);
   const parsedResumes: { filename: string; resume: Resume }[] = [];
+  console.log(`Parsing ${resumes.length} resumes`);
   for (const resume of resumes) {
     if (resume.endsWith(".pdf") || resume.endsWith(".docx")) {
       console.log(`Parsing ${resume}`);
@@ -25,7 +26,6 @@ const main = async () => {
       });
     }
   }
-
   // const resumesDir = path.join(`${__dirname}/../../out`);
   // const resumes = fs.readdirSync(resumesDir);
   // const parsedResumes: { filename: string; resume: Resume }[] = [];
@@ -69,23 +69,24 @@ const main = async () => {
     const workSummary = resume.EmploymentHistory.ExperienceSummary;
     const totalWorkExperience =
       resume.EmploymentHistory.ExperienceSummary.MonthsOfWorkExperience;
-    const workExperiences = resume.EmploymentHistory.Positions?.map((p) => {
-      const months = calculateMonthsBetweenDates(
-        p.StartDate?.Date,
-        p.EndDate?.Date,
-      );
-      return {
-        id: Number(p.Id.replace("POS-", "")),
-        startDate: p.StartDate?.Date || "unknown",
-        endDate: p.EndDate?.Date || "unknown",
-        months,
-        title: p.JobTitle?.Normalized || "unknown",
-        company: p.Employer?.Name?.Normalized || "unknown",
-        description: p.Description?.replaceAll("\n", " ") || "unknown",
-      };
-    })
-      .sort((a, b) => a.id - b.id)
-      .slice(0, 3);
+    const workExperiences =
+      resume.EmploymentHistory.Positions?.map((p) => {
+        const months = calculateMonthsBetweenDates(
+          p.StartDate?.Date,
+          p.EndDate?.Date,
+        );
+        return {
+          id: Number(p.Id.replace("POS-", "")),
+          startDate: p.StartDate?.Date || "unknown",
+          endDate: p.EndDate?.Date || "unknown",
+          months,
+          title: p.JobTitle?.Normalized || "unknown",
+          company: p.Employer?.Name?.Normalized || "unknown",
+          description: p.Description?.replaceAll("\n", " ") || "unknown",
+        };
+      })
+        .sort((a, b) => a.id - b.id)
+        .slice(0, 3) || [];
     const companies = workExperiences.map((w) => w.company);
     const skills = calculateValidSkills(resume);
     v.push({
@@ -102,7 +103,7 @@ const main = async () => {
   }
 
   // write it to a file
-  const outDir = path.join(`${__dirname}/../../out/test`);
+  const outDir = path.join(`${__dirname}/../../out/glasp`);
   if (fs.existsSync(outDir) === false) {
     fs.mkdirSync(outDir);
   }
