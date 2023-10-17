@@ -24,6 +24,12 @@ export const createFields = async (
         precision: 1,
       };
     }
+    if (type === "checkbox") {
+      req["options"] = {
+        color: "greenBright",
+        icon: "check",
+      };
+    }
     const r = await fetch(
       `https://api.airtable.com/v0/meta/bases/${baseId}/tables/${tableId}/fields`,
       {

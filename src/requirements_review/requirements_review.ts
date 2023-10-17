@@ -13,7 +13,10 @@ import {
 
 const chat = new ChatOpenAI({
   temperature: 0,
-  modelName: "gpt-4",
+  modelName: "gpt-4", // "gpt-3.5-turbo" does not provide good result
+  maxConcurrency: 5,
+  maxRetries: 3,
+  timeout: 60000,
 });
 
 export const requirementReview = async (resume: ParsedResume) => {
@@ -21,7 +24,7 @@ export const requirementReview = async (resume: ParsedResume) => {
   const stringified = JSON.stringify(resume)
     .replace(/\{/g, "{{")
     .replace(/\}/g, "}}");
-  // console.log("stringified", stringified);
+
   const prompt = ChatPromptTemplate.fromMessages([
     [
       "system",
@@ -44,11 +47,11 @@ export const requirementReview = async (resume: ParsedResume) => {
     input: leadershipRoleMentionPrompt,
   });
 
-  //  console.log("leadershipRoleMention", leadershipRoleMention);
+  // console.log("leadershipRoleMention", leadershipRoleMention);
   const leadershipSkillMention = await chain.invoke({
     input: leadershipSkillMentionPrompt,
   });
-  // console.log("leadershipSkillMention", leadershipSkillMention);
+
   return {
     email: resume.email || "",
     requiredSkill: requiredSkillMention.text.toLowerCase() === "yes",
