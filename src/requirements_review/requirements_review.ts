@@ -1,53 +1,21 @@
-import dotenv from "dotenv";
-dotenv.config();
-
-import { ChatOpenAI } from "langchain/chat_models/openai";
-import { ChatPromptTemplate, PromptTemplate } from "langchain/prompts";
-import { LLMChain } from "langchain/chains";
 import { ParsedResume } from "../resume_parser/resumeType";
 import {
   leadershipRoleMentionPrompt,
   leadershipSkillMentionPrompt,
   requiredSkillMentionPrompt,
 } from "./requirements_prompts.js";
-
-const chat = new ChatOpenAI({
-  temperature: 0,
-  modelName: "gpt-4", // "gpt-3.5-turbo" does not provide good result
-  maxConcurrency: 5,
-  maxRetries: 3,
-  timeout: 60000,
-});
+import { resumeLLMChain } from "./resume_chain.js";
 
 export const requirementReview = async (resume: ParsedResume) => {
-  // workaround to escape curly braces
-  const stringified = JSON.stringify(resume)
-    .replace(/\{/g, "{{")
-    .replace(/\}/g, "}}");
-
-  const prompt = ChatPromptTemplate.fromMessages([
-    [
-      "system",
-      `You are an HR expert. Your objective is to provide insight from candidate's work experience. Answer questions based on following json: ${stringified}`,
-    ],
-    ["human", "{input}"],
-  ]);
-
-  const chain = new LLMChain({
-    llm: chat,
-    prompt,
-    //verbose: true,
-  });
+  const chain = resumeLLMChain(resume);
   const requiredSkillMention = await chain.invoke({
     input: requiredSkillMentionPrompt,
   });
-  // console.log("requiredSkillMention", requiredSkillMention);
 
   const leadershipRoleMention = await chain.invoke({
     input: leadershipRoleMentionPrompt,
   });
 
-  // console.log("leadershipRoleMention", leadershipRoleMention);
   const leadershipSkillMention = await chain.invoke({
     input: leadershipSkillMentionPrompt,
   });

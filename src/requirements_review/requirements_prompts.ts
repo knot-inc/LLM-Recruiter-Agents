@@ -1,6 +1,7 @@
 import { PromptTemplate } from "langchain/prompts";
 
-const skills = ["Firebase", "FireStore"];
+// const skills = ["Firebase", "FireStore"];
+const skills = ["Browser extension", "Chrome extension", "Safari extension"];
 const requiredSkillMentionTemplate = PromptTemplate.fromTemplate(
   "Does this work experiences mention about any skills related to {skills}? Answer yes or no",
 );

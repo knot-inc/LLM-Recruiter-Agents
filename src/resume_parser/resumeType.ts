@@ -277,6 +277,7 @@ export interface WorkExperience {
   title: string;
   company: string;
   description: string;
+  months: number;
 }
 
 export interface SkillCount {
