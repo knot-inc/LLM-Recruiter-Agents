@@ -1,0 +1,5 @@
+# Knowledge proficiency level
+Expert: Design and optimize architectures of multiple projects using this knowledge. Lead multiple teams. Mentored people.
+Advanced: Have used in multiple projects. Collaborate with members. Maintained a project.
+Intermediate: Have used in or completed a production level project. Used in a part of a project.
+Novice: Understands the concept.

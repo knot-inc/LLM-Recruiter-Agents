@@ -293,3 +293,9 @@ export interface SkillScore {
   skillCounts: SkillCount[];
   skillCountsAverage: number;
 }
+
+export interface Knowledge {
+  knowledge?: string;
+  level?: string;
+  reason?: string;
+}
