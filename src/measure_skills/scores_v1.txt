@@ -1,0 +1,5 @@
+# Knowledge proficiency level
+Expert: Have a deep understanding of the knowledge and take responsibility for going beyond existing standards and creating own interpretations.
+Advanced: Have a completed multiple projects and can apply knowledge in a variety of situations.
+Intermediate: Have used in or completed a production level project. Able to achieve some steps using own judgement, but supervision needed for overall task.
+Novice: Understands the concept. Requires close supervision or instruction.
