@@ -1,0 +1,849 @@
+[
+  {
+    "skill": "Groovy",
+    "tags": [
+      "Programming Language",
+      "JVM",
+      "Scripting Language"
+    ]
+  },
+  {
+    "skill": "Kibana",
+    "tags": [
+      "Data Visualization",
+      "Analytics",
+      "Elasticsearch",
+      "Front-end Web Development"
+    ]
+  },
+  {
+    "skill": "Prometheus",
+    "tags": [
+      "Monitoring",
+      "Alerting",
+      "Time Series Database",
+      "DevOps"
+    ]
+  },
+  {
+    "skill": "OpenCV",
+    "tags": [
+      "Computer Vision",
+      "Image Processing",
+      "Machine Learning",
+      "Library"
+    ]
+  },
+  {
+    "skill": "SQLAlchemy",
+    "tags": [
+      "Python",
+      "Database",
+      "ORM",
+      "SQL",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Sinon",
+    "tags": [
+      "JavaScript",
+      "Testing",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Server-Side",
+    "tags": [
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "SonarQube",
+    "tags": [
+      "Code Quality",
+      "Toolings",
+      "DevOps"
+    ]
+  },
+  {
+    "skill": "Spring Batch",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Batch Processing",
+      "Framework"
+    ]
+  },
+  {
+    "skill": "SoapUI",
+    "tags": [
+      "API Testing",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Integration Tests",
+    "tags": [
+      "Software Testing",
+      "Quality Assurance",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Rspec",
+    "tags": [
+      "Ruby",
+      "Testing",
+      "Back-end Web Development",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Basecamp",
+    "tags": [
+      "Project Management",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "ADO.NET",
+    "tags": [
+      ".NET",
+      "Back-end Web Development",
+      "Database",
+      "Data Access",
+      "Microsoft"
+    ]
+  },
+  {
+    "skill": "Extract Transform Load (ETL)",
+    "tags": [
+      "Data Processing",
+      "Data Warehousing",
+      "Data Integration",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Microsoft Excel",
+    "tags": [
+      "Spreadsheet",
+      "Data Analysis",
+      "Data Visualization",
+      "Office Productivity",
+      "Microsoft Office Suite"
+    ]
+  },
+  {
+    "skill": "Windows Presentation Foundation",
+    "tags": [
+      ".NET",
+      "Framework",
+      "User Interface",
+      "Microsoft",
+      "Desktop Application Development"
+    ]
+  },
+  {
+    "skill": "PIC Microcontroller",
+    "tags": [
+      "Embedded Systems",
+      "Microcontroller",
+      "Electronics",
+      "Programming",
+      "Hardware"
+    ]
+  },
+  {
+    "skill": "Firebug",
+    "tags": [
+      "Web Development",
+      "Debugging",
+      "Browser Extension",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ]
+  },
+  {
+    "skill": "Notepad (Software)",
+    "tags": [
+      "Text Editing",
+      "Software",
+      "Microsoft",
+      "Office Productivity"
+    ]
+  },
+  {
+    "skill": "Java Virtual Machine (JVM)",
+    "tags": [
+      "Java",
+      "Runtime Environment",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "New Relic (SaaS)",
+    "tags": [
+      "Software as a Service",
+      "Performance Monitoring",
+      "Analytics",
+      "DevOps"
+    ]
+  },
+  {
+    "skill": "WildFly (JBoss AS)",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Application Server"
+    ]
+  },
+  {
+    "skill": "Zend Framework",
+    "tags": [
+      "PHP",
+      "Back-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Maintenance",
+    "tags": [
+      "Software Maintenance",
+      "Bug Fixing",
+      "Updates",
+      "Upgrades"
+    ]
+  },
+  {
+    "skill": "Computer Security",
+    "tags": [
+      "Network",
+      "Security",
+      "Cybersecurity"
+    ]
+  },
+  {
+    "skill": "Bugzilla",
+    "tags": [
+      "Project management",
+      "Toolings",
+      "Bug tracking"
+    ]
+  },
+  {
+    "skill": "Data Storage Technologies",
+    "tags": [
+      "Database",
+      "Data modeling",
+      "Performance tuning",
+      "Infrastructure"
+    ]
+  },
+  {
+    "skill": "Solaris (Operating System)",
+    "tags": [
+      "Operating System",
+      "Infrastructure",
+      "Network"
+    ]
+  },
+  {
+    "skill": "Apache Solr",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "Search platform",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Crypto Currency",
+    "tags": [
+      "Blockchain",
+      "Finance",
+      "Security",
+      "Cryptography"
+    ]
+  },
+  {
+    "skill": "Meteor",
+    "tags": [
+      "JavaScript",
+      "Full-stack Web Development",
+      "Framework",
+      "Real-time Applications"
+    ]
+  },
+  {
+    "skill": "AWS ECS",
+    "tags": [
+      "Cloud Computing",
+      "Container Orchestration",
+      "Infrastructure",
+      "Toolings",
+      "API",
+      "Back-end Web Development",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Knowledge of Engineering",
+    "tags": [
+      "Problem Solving",
+      "Design",
+      "Analysis",
+      "Mathematics",
+      "Physics"
+    ]
+  },
+  {
+    "skill": "Travis Ci",
+    "tags": [
+      "Continuous Integration",
+      "DevOps",
+      "Toolings",
+      "Testing",
+      "Deployment"
+    ]
+  },
+  {
+    "skill": "Hard Work and Dedication",
+    "tags": [
+      "Soft Skills",
+      "Personal Traits"
+    ]
+  },
+  {
+    "skill": "JavaScript Libraries",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Network Protocols",
+    "tags": [
+      "Networking",
+      "Network Security",
+      "Network Engineering"
+    ]
+  },
+  {
+    "skill": "Solution Architecture",
+    "tags": [
+      "System Design",
+      "Software Architecture",
+      "Project Management"
+    ]
+  },
+  {
+    "skill": "Firewalls (Computer Science)",
+    "tags": [
+      "Network Security",
+      "Cybersecurity",
+      "Computer Science"
+    ]
+  },
+  {
+    "skill": "Microsoft Word",
+    "tags": [
+      "Office Productivity",
+      "Document Creation",
+      "Text Editing"
+    ]
+  },
+  {
+    "skill": "Enterprise JavaBeans",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "IBM DB2",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Relational Database",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Sybase",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Relational Database",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Toad (Software)",
+    "tags": [
+      "Database",
+      "SQL",
+      "Relational Database",
+      "Data modeling",
+      "Performance tuning",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Pulumi",
+    "tags": [
+      "Infrastructure as Code",
+      "DevOps",
+      "Cloud Computing",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Assembly and Installation",
+    "tags": [
+      "Hardware",
+      "Troubleshooting",
+      "Maintenance"
+    ]
+  },
+  {
+    "skill": "Website Wireframe",
+    "tags": [
+      "Web Design",
+      "Front-end Web Development",
+      "UI/UX Design"
+    ]
+  },
+  {
+    "skill": "Search Engine Optimization",
+    "tags": [
+      "Digital Marketing",
+      "Web Analytics",
+      "Content Strategy"
+    ]
+  },
+  {
+    "skill": "Microsoft Visio",
+    "tags": [
+      "Diagramming",
+      "Business Process Modelling",
+      "Documentation",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Transact-SQL",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "JavaServer Pages Standard Tag Library",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Magento",
+    "tags": [
+      "E-commerce",
+      "PHP",
+      "Back-end Web Development",
+      "Framework"
+    ]
+  },
+  {
+    "skill": "GPT",
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Natural Language Processing",
+      "Model"
+    ]
+  },
+  {
+    "skill": "Vba Programming Language",
+    "tags": [
+      "Programming Language",
+      "Microsoft Office",
+      "Automation"
+    ]
+  },
+  {
+    "skill": "Google Maps",
+    "tags": [
+      "API",
+      "Front-end Web Development",
+      "Geolocation",
+      "Navigation"
+    ]
+  },
+  {
+    "skill": "Ability to Multitask",
+    "tags": [
+      "Soft Skill",
+      "Productivity"
+    ]
+  },
+  {
+    "skill": "Nunit",
+    "tags": [
+      ".NET",
+      "Unit Testing",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "HTML Abstraction Markup Language",
+    "tags": [
+      "Front-end Web Development",
+      "Markup Language"
+    ]
+  },
+  {
+    "skill": "Team Management",
+    "tags": [
+      "Soft Skill",
+      "Leadership",
+      "Project Management"
+    ]
+  },
+  {
+    "skill": "Vim (Text Editor)",
+    "tags": [
+      "Text Editor",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Cloudformation",
+    "tags": [
+      "Cloud Computing",
+      "Infrastructure as Code",
+      "DevOps",
+      "Amazon Web Services"
+    ]
+  },
+  {
+    "skill": "LAMP (Software Bundle)",
+    "tags": [
+      "Back-end Web Development",
+      "Linux",
+      "Apache",
+      "MySQL",
+      "PHP"
+    ]
+  },
+  {
+    "skill": "Amazon Cloudfront",
+    "tags": [
+      "Cloud Computing",
+      "Content Delivery Network",
+      "Amazon Web Services"
+    ]
+  },
+  {
+    "skill": "Power BI",
+    "tags": [
+      "Data Visualization",
+      "Business Intelligence",
+      "Analytics",
+      "Microsoft"
+    ]
+  },
+  {
+    "skill": "MapReduce",
+    "tags": [
+      "Big Data",
+      "Data Processing",
+      "Algorithm"
+    ]
+  },
+  {
+    "skill": "NLTK (NLP Analysis)",
+    "tags": [
+      "Natural Language Processing",
+      "Python",
+      "Library",
+      "Text Analysis"
+    ]
+  },
+  {
+    "skill": "Apache Hive",
+    "tags": [
+      "Big Data",
+      "Data Warehousing",
+      "SQL",
+      "Hadoop"
+    ]
+  },
+  {
+    "skill": "Hyperledger",
+    "tags": [
+      "Blockchain",
+      "Distributed Ledger",
+      "Smart Contracts",
+      "Cryptography"
+    ]
+  },
+  {
+    "skill": "Grails (Framework)",
+    "tags": [
+      "Groovy",
+      "Web Development",
+      "Framework"
+    ]
+  },
+  {
+    "skill": "Adobe Coldfusion",
+    "tags": [
+      "Back-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Angular Material",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Apache ActiveMQ",
+    "tags": [
+      "Back-end Web Development",
+      "Message Broker",
+      "Java",
+      "Middleware"
+    ]
+  },
+  {
+    "skill": "FFmpeg",
+    "tags": [
+      "Multimedia",
+      "Video Processing",
+      "Audio Processing",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Memcached",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "Cache",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "InVision",
+    "tags": [
+      "UI/UX Design",
+      "Prototyping",
+      "Collaboration",
+      "Design Tools"
+    ]
+  },
+  {
+    "skill": "Target Market Selection",
+    "tags": [
+      "Marketing",
+      "Strategy",
+      "Business"
+    ]
+  },
+  {
+    "skill": "CMake",
+    "tags": [
+      "Build Automation",
+      "Software Development",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "OpenGL",
+    "tags": [
+      "Graphics",
+      "3D Rendering",
+      "Programming Language",
+      "API"
+    ]
+  },
+  {
+    "skill": "Quick EMUlator (QEMU)",
+    "tags": [
+      "Virtualization",
+      "Emulation",
+      "Operating System",
+      "Performance monitoring"
+    ]
+  },
+  {
+    "skill": "Test Scripts",
+    "tags": [
+      "Software Testing",
+      "Quality Assurance",
+      "Programming"
+    ]
+  },
+  {
+    "skill": "Business Requirements",
+    "tags": [
+      "Business Analysis",
+      "Project Management",
+      "Documentation"
+    ]
+  },
+  {
+    "skill": "Order Picking",
+    "tags": [
+      "Warehouse Operations",
+      "Inventory Management",
+      "Logistics"
+    ]
+  },
+  {
+    "skill": "Self Motivation",
+    "tags": [
+      "Personal Development",
+      "Soft Skills"
+    ]
+  },
+  {
+    "skill": "Data Structures",
+    "tags": [
+      "Computer Science",
+      "Programming",
+      "Algorithms"
+    ]
+  },
+  {
+    "skill": "Health Level Seven International",
+    "tags": [
+      "Healthcare Information Technology",
+      "Data Standards",
+      "Interoperability"
+    ]
+  },
+  {
+    "skill": "Load Balancing",
+    "tags": [
+      "Network",
+      "Infrastructure",
+      "Performance tuning",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Relational Databases",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Highcharts",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Data Visualization",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Jinja (Template Engine)",
+    "tags": [
+      "Python",
+      "Front-end Web Development",
+      "Template Engine"
+    ]
+  },
+  {
+    "skill": "Airflow",
+    "tags": [
+      "Data Engineering",
+      "Workflow Management",
+      "Python",
+      "Scheduler",
+      "ETL"
+    ]
+  },
+  {
+    "skill": "Data Processing",
+    "tags": [
+      "Data Analysis",
+      "Data Engineering",
+      "ETL",
+      "Big Data"
+    ]
+  },
+  {
+    "skill": "Data Visualization",
+    "tags": [
+      "Data Analysis",
+      "Reporting",
+      "Business Intelligence",
+      "Front-end Web Development"
+    ]
+  },
+  {
+    "skill": "Swiftui",
+    "tags": [
+      "iOS Development",
+      "Mobile App Development",
+      "Swift",
+      "Front-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Technical Skills",
+    "tags": [
+      "General",
+      "Unknown"
+    ]
+  },
+  {
+    "skill": "Apple Xcode",
+    "tags": [
+      "iOS Development",
+      "macOS Development",
+      "Software Development Kit (SDK)",
+      "Integrated Development Environment (IDE)",
+      "Swift",
+      "Objective-C",
+      "Debugging",
+      "Interface Builder",
+      "Testing",
+      "App Store Deployment"
+    ]
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "skill": "Web3.js",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Blockchain",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Elasticsearch",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "Search Engine",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Apache Maven",
+    "tags": [
+      "Java",
+      "Build automation",
+      "Project management",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Computer Programming",
+    "tags": [
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "Terraform",
+    "tags": [
+      "Infrastructure as Code",
+      "DevOps",
+      "Cloud Computing",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Object-Oriented Software Development",
+    "tags": [
+      "Software Development",
+      "Object-Oriented Programming"
+    ]
+  },
+  {
+    "skill": "Web Development",
+    "tags": [
+      "Front-end Web Development",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Javaserver Pages",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Server-side Scripting"
+    ]
+  },
+  {
+    "skill": "Blockchain",
+    "tags": [
+      "Cryptography",
+      "Distributed Systems",
+      "Security",
+      "Network"
+    ]
+  },
+  {
+    "skill": "Java Persistence API",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Database",
+      "API",
+      "Data modeling"
+    ]
+  },
+  {
+    "skill": ".NET Core",
+    "tags": [
+      "Back-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Serverless Computing",
+    "tags": [
+      "Cloud Computing",
+      "Infrastructure",
+      "Toolings",
+      "API",
+      "Back-end Web Development",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Shopify",
+    "tags": [
+      "E-commerce",
+      "Front-end Web Development",
+      "Back-end Web Development",
+      "CMS"
+    ]
+  },
+  {
+    "skill": "Jasmine",
+    "tags": [
+      "JavaScript",
+      "Testing",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Java Servlet",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "IntelliJ IDEA",
+    "tags": [
+      "Integrated Development Environment",
+      "Java",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Subversion",
+    "tags": [
+      "Version Control System",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Rust (Programming Language)",
+    "tags": [
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "Apache HTTP Server",
+    "tags": [
+      "Back-end Web Development",
+      "Server",
+      "HTTP",
+      "Network"
+    ]
+  },
+  {
+    "skill": "Responsive Web Design",
+    "tags": [
+      "Front-end Web Development",
+      "Web Design",
+      "CSS",
+      "HTML",
+      "JavaScript"
+    ]
+  },
+  {
+    "skill": "Architecture",
+    "tags": [
+      "Design",
+      "Planning",
+      "Structural Engineering",
+      "Construction"
+    ]
+  },
+  {
+    "skill": "Circleci",
+    "tags": [
+      "Continuous Integration",
+      "DevOps",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Tensorflow",
+    "tags": [
+      "Machine Learning",
+      "Deep Learning",
+      "AI",
+      "Python",
+      "Data Science",
+      "Neural Networks"
+    ]
+  },
+  {
+    "skill": "Mockito",
+    "tags": [
+      "Java",
+      "Unit Testing",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Spring-mvc",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Framework"
+    ]
+  },
+  {
+    "skill": "Operational Systems",
+    "tags": [
+      "IT Operations",
+      "System Administration",
+      "Network",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Software Debugging",
+    "tags": [
+      "Software Development",
+      "Problem Solving",
+      "Debugging",
+      "Testing"
+    ]
+  },
+  {
+    "skill": "Kanban",
+    "tags": [
+      "Project Management",
+      "Agile Methodology",
+      "Workflow Management"
+    ]
+  },
+  {
+    "skill": "Flutter",
+    "tags": [
+      "Mobile App Development",
+      "Framework",
+      "Dart",
+      "Cross-platform Development"
+    ]
+  },
+  {
+    "skill": "Pandas",
+    "tags": [
+      "Python",
+      "Data Analysis",
+      "Data Manipulation",
+      "Data Science"
+    ]
+  },
+  {
+    "skill": "Pytorch",
+    "tags": [
+      "Machine Learning",
+      "Deep Learning",
+      "Artificial Intelligence",
+      "Neural Networks",
+      "Python",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Shell Script",
+    "tags": [
+      "Scripting Language",
+      "Automation",
+      "System Administration",
+      "Unix/Linux"
+    ]
+  },
+  {
+    "skill": "D3.Js",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Data Visualization",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Automation",
+    "tags": [
+      "Software Development",
+      "Testing",
+      "DevOps",
+      "Continuous Integration",
+      "Continuous Deployment"
+    ]
+  },
+  {
+    "skill": "Adaptability",
+    "tags": [
+      "Soft Skill",
+      "Personal Development"
+    ]
+  },
+  {
+    "skill": "Apple IOS",
+    "tags": [
+      "Mobile Development",
+      "Operating System"
+    ]
+  },
+  {
+    "skill": "Gulp.js",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Task Runner",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Unix",
+    "tags": [
+      "Operating System",
+      "System Administration",
+      "Shell Scripting"
+    ]
+  },
+  {
+    "skill": "PL-SQL",
+    "tags": [
+      "Programming Language",
+      "Database",
+      "SQL",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Confluence",
+    "tags": [
+      "Project Management",
+      "Documentation",
+      "Collaboration Tool"
+    ]
+  },
+  {
+    "skill": "NumPy",
+    "tags": [
+      "Python",
+      "Data Analysis",
+      "Data Science",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Machine Learning",
+    "tags": [
+      "Data Science",
+      "Artificial Intelligence",
+      "Algorithms",
+      "Predictive Modeling"
+    ]
+  },
+  {
+    "skill": "Amazon Simple Queue Service (SQS)",
+    "tags": [
+      "Cloud Computing",
+      "Message Queuing",
+      "Serverless Computing",
+      "Infrastructure",
+      "Toolings",
+      "API",
+      "Back-end Web Development",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Artificial Intelligence",
+    "tags": [
+      "Machine Learning",
+      "Data Science",
+      "Algorithms",
+      "Predictive Modeling"
+    ]
+  },
+  {
+    "skill": "Spring Security",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Framework",
+      "Library",
+      "Security"
+    ]
+  },
+  {
+    "skill": "WebSocket",
+    "tags": [
+      "Network",
+      "Real-time communication",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Adobe XD",
+    "tags": [
+      "UI/UX Design",
+      "Prototyping",
+      "Front-end Web Development",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Scala (Programming Language)",
+    "tags": [
+      "Programming Language",
+      "Back-end Web Development",
+      "Functional Programming",
+      "Object-Oriented Programming"
+    ]
+  },
+  {
+    "skill": "Splunk",
+    "tags": [
+      "Data Analysis",
+      "Log Management",
+      "Security",
+      "Network",
+      "Performance monitoring",
+      "DevOps"
+    ]
+  },
+  {
+    "skill": "Database Administration",
+    "tags": [
+      "Database",
+      "SQL",
+      "NoSQL",
+      "Data modeling",
+      "Performance tuning",
+      "Security",
+      "Back-end Web Development"
+    ]
+  }
+]

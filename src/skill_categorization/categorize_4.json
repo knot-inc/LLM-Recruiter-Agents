@@ -1,0 +1,586 @@
+[
+  {
+    "skill": "Spring Framework",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Framework"
+    ]
+  },
+  {
+    "skill": "Ansible",
+    "tags": [
+      "DevOps",
+      "Infrastructure",
+      "Toolings",
+      "Automation"
+    ]
+  },
+  {
+    "skill": "JavaBeans",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Component Architecture"
+    ]
+  },
+  {
+    "skill": "Extreme Programming",
+    "tags": [
+      "Software Development Methodology",
+      "Agile"
+    ]
+  },
+  {
+    "skill": "Microsoft Access",
+    "tags": [
+      "Database",
+      "SQL",
+      "Relational Database",
+      "Data modeling"
+    ]
+  },
+  {
+    "skill": "Google Analytics",
+    "tags": [
+      "Analytics",
+      "Data Analysis",
+      "Web Analytics",
+      "Marketing",
+      "SEO"
+    ]
+  },
+  {
+    "skill": "Drupal",
+    "tags": [
+      "CMS",
+      "Back-end Web Development",
+      "PHP",
+      "Front-end Web Development"
+    ]
+  },
+  {
+    "skill": "Information Technology",
+    "tags": [
+      "IT",
+      "Network",
+      "Security",
+      "Database",
+      "Programming",
+      "System Administration"
+    ]
+  },
+  {
+    "skill": "Playwright",
+    "tags": [
+      "Testing",
+      "Automation",
+      "JavaScript",
+      "Browser Automation",
+      "End-to-End Testing"
+    ]
+  },
+  {
+    "skill": "Internet Information Services (IIS)",
+    "tags": [
+      "Web Server",
+      "Microsoft",
+      "Network",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Web Servers",
+    "tags": [
+      "Back-end Web Development",
+      "Network",
+      "Infrastructure"
+    ]
+  },
+  {
+    "skill": "Test-Driven Development (TDD)",
+    "tags": [
+      "Software Testing",
+      "Software Development Methodology"
+    ]
+  },
+  {
+    "skill": "Kendo Ui",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Human-Computer Interaction",
+    "tags": [
+      "User Experience",
+      "User Interface",
+      "Design"
+    ]
+  },
+  {
+    "skill": "Code Review",
+    "tags": [
+      "Software Quality Assurance",
+      "Software Development Process"
+    ]
+  },
+  {
+    "skill": "Build Tools",
+    "tags": [
+      "Software Development",
+      "DevOps",
+      "Automation"
+    ]
+  },
+  {
+    "skill": "E-Commerce",
+    "tags": [
+      "Business",
+      "Online Shopping",
+      "Web Development"
+    ]
+  },
+  {
+    "skill": "Full Stack Development",
+    "tags": [
+      "Front-end Web Development",
+      "Back-end Web Development",
+      "Database",
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "Extensible Stylesheet Language Transformations (XSLT)",
+    "tags": [
+      "XML",
+      "Data Transformation",
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "Jax Ws",
+    "tags": [
+      "Java",
+      "Web Services",
+      "API",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Open Source Technology",
+    "tags": [
+      "Software Development",
+      "Collaboration",
+      "Community"
+    ]
+  },
+  {
+    "skill": "Scikit Learn",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Friendliness",
+    "tags": [
+      "Soft Skills",
+      "Interpersonal Skills"
+    ]
+  },
+  {
+    "skill": "Spring Data",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Framework",
+      "Data Access"
+    ]
+  },
+  {
+    "skill": "Spring Cloud",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Framework",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "skill": "Cassandra",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "NoSQL",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "VoIP",
+    "tags": [
+      "Telecommunications",
+      "Network",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Objective-C (Programming Language)",
+    "tags": [
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "Deep Learning",
+    "tags": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Data Science",
+      "Neural Networks"
+    ]
+  },
+  {
+    "skill": "Kotlin",
+    "tags": [
+      "Programming Language",
+      "Mobile Development",
+      "Android Development"
+    ]
+  },
+  {
+    "skill": "Testng",
+    "tags": [
+      "Java",
+      "Testing",
+      "Automation",
+      "Framework"
+    ]
+  },
+  {
+    "skill": "Quality Management",
+    "tags": [
+      "Management",
+      "Quality Assurance",
+      "Process Improvement"
+    ]
+  },
+  {
+    "skill": "Log4j",
+    "tags": [
+      "Java",
+      "Logging",
+      "Debugging",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Pytest",
+    "tags": [
+      "Python",
+      "Testing",
+      "Automation",
+      "Framework"
+    ]
+  },
+  {
+    "skill": "Xamarin",
+    "tags": [
+      "Mobile App Development",
+      "Cross-platform",
+      ".NET",
+      "C#"
+    ]
+  },
+  {
+    "skill": "Asana",
+    "tags": [
+      "Project Management",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "SQL Stored Procedures",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Data modeling"
+    ]
+  },
+  {
+    "skill": "Language Integrated Query",
+    "tags": [
+      "Programming Language",
+      "Data Query",
+      "Database"
+    ]
+  },
+  {
+    "skill": "Network Routers",
+    "tags": [
+      "Network",
+      "Hardware",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Ubuntu (Operating System)",
+    "tags": [
+      "Operating System",
+      "Linux",
+      "System Administration",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Systems Design",
+    "tags": [
+      "System Architecture",
+      "Design Patterns",
+      "Software Engineering"
+    ]
+  },
+  {
+    "skill": "Java Platform Standard Edition (J2SE)",
+    "tags": [
+      "Java",
+      "Programming Language",
+      "Object-Oriented Programming",
+      "Software Development"
+    ]
+  },
+  {
+    "skill": "Networking Skills",
+    "tags": [
+      "Network",
+      "Network Administration",
+      "Network Security",
+      "IT"
+    ]
+  },
+  {
+    "skill": "Adobe Dreamweaver",
+    "tags": [
+      "Web Development",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Adobe Suite"
+    ]
+  },
+  {
+    "skill": "Extensible HyperText Markup Language (XHTML)",
+    "tags": [
+      "Web Development",
+      "HTML",
+      "Markup Language"
+    ]
+  },
+  {
+    "skill": "Data Logging",
+    "tags": [
+      "Data Management",
+      "Data Analysis",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Visual Basic .NET (Programming Language)",
+    "tags": [
+      "Programming Language",
+      ".NET",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Big Data",
+    "tags": [
+      "Data Analysis",
+      "Data Management",
+      "Data Science",
+      "Machine Learning",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "skill": "Network Server",
+    "tags": [
+      "Network",
+      "Back-end Web Development",
+      "Security",
+      "Infrastructure"
+    ]
+  },
+  {
+    "skill": "Moulding Machines",
+    "tags": [
+      "Manufacturing",
+      "Industrial Engineering",
+      "Mechanical Engineering"
+    ]
+  },
+  {
+    "skill": "Data Science",
+    "tags": [
+      "Analytics",
+      "Machine Learning",
+      "Statistics",
+      "Python",
+      "R"
+    ]
+  },
+  {
+    "skill": "Region Management",
+    "tags": [
+      "Project Management",
+      "Operations",
+      "Strategy"
+    ]
+  },
+  {
+    "skill": "Containerization",
+    "tags": [
+      "DevOps",
+      "Docker",
+      "Kubernetes",
+      "Infrastructure",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "skill": "Cloud Engineering",
+    "tags": [
+      "Cloud Computing",
+      "Infrastructure",
+      "DevOps",
+      "Network",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Pyspark",
+    "tags": [
+      "Big Data",
+      "Apache Spark",
+      "Python",
+      "Data Processing",
+      "Machine Learning"
+    ]
+  },
+  {
+    "skill": "Hubspot",
+    "tags": [
+      "Marketing",
+      "CRM",
+      "Sales",
+      "Customer Service",
+      "Automation",
+      "Email Marketing"
+    ]
+  },
+  {
+    "skill": "WooCommerce",
+    "tags": [
+      "E-commerce",
+      "WordPress",
+      "Web Development",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Graphic Design",
+    "tags": [
+      "Creativity",
+      "Adobe Suite",
+      "Visual Communication",
+      "Typography",
+      "Layout Design"
+    ]
+  },
+  {
+    "skill": "Tableau (Software)",
+    "tags": [
+      "Data Visualization",
+      "Business Intelligence",
+      "Analytics",
+      "Data Analysis"
+    ]
+  },
+  {
+    "skill": "Critical Thinking",
+    "tags": [
+      "Problem Solving",
+      "Decision Making",
+      "Analysis",
+      "Reasoning"
+    ]
+  },
+  {
+    "skill": "OAuth",
+    "tags": [
+      "Security",
+      "Authentication",
+      "Authorization",
+      "API"
+    ]
+  },
+  {
+    "skill": "Web Services Description Language",
+    "tags": [
+      "Web Development",
+      "API",
+      "XML",
+      "SOAP"
+    ]
+  },
+  {
+    "skill": "Lodash",
+    "tags": [
+      "JavaScript",
+      "Library",
+      "Utility Functions"
+    ]
+  },
+  {
+    "skill": "Analytical Thinking",
+    "tags": [
+      "Soft Skills",
+      "Problem Solving"
+    ]
+  },
+  {
+    "skill": "Oracledb",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Relational Database",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Xunit",
+    "tags": [
+      "Unit Testing",
+      ".NET",
+      "Library"
+    ]
+  },
+  {
+    "skill": "MATLAB",
+    "tags": [
+      "Programming Language",
+      "Data Analysis",
+      "Numerical Computing",
+      "Algorithm Development",
+      "Simulation",
+      "Modeling"
+    ]
+  }
+]
