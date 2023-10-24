@@ -1,0 +1,533 @@
+[
+  {
+    "skill": "Adobe Photoshop",
+    "tags": [
+      "Graphic Design",
+      "Image Editing",
+      "UI/UX Design"
+    ]
+  },
+  {
+    "skill": "Swift (Programming Language)",
+    "tags": [
+      "Programming Language",
+      "iOS Development",
+      "Mobile App Development"
+    ]
+  },
+  {
+    "skill": "Android Studio",
+    "tags": [
+      "Android Development",
+      "Mobile App Development",
+      "IDE",
+      "Java",
+      "Kotlin"
+    ]
+  },
+  {
+    "skill": "Apache Spark",
+    "tags": [
+      "Big Data",
+      "Data Processing",
+      "Machine Learning",
+      "Analytics",
+      "Distributed Computing"
+    ]
+  },
+  {
+    "skill": "Content Management",
+    "tags": [
+      "Web Development",
+      "SEO",
+      "Digital Marketing",
+      "Writing",
+      "Editing"
+    ]
+  },
+  {
+    "skill": "Software as a Service",
+    "tags": [
+      "Cloud Computing",
+      "Service",
+      "Business Model"
+    ]
+  },
+  {
+    "skill": "Nginx",
+    "tags": [
+      "Web Server",
+      "Load Balancer",
+      "Reverse Proxy",
+      "HTTP Server"
+    ]
+  },
+  {
+    "skill": "Mobile Application Development",
+    "tags": [
+      "Software Development",
+      "Mobile",
+      "Android",
+      "iOS",
+      "Cross-platform"
+    ]
+  },
+  {
+    "skill": "Entity Framework",
+    "tags": [
+      ".NET",
+      "Object-Relational Mapping",
+      "Database",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Microsoft Office",
+    "tags": [
+      "Productivity Software",
+      "Word Processing",
+      "Spreadsheet",
+      "Presentation",
+      "Email Management"
+    ]
+  },
+  {
+    "skill": "Mern",
+    "tags": [
+      "MongoDB",
+      "Express.js",
+      "ReactJS",
+      "Node.js",
+      "Full Stack Development",
+      "JavaScript"
+    ]
+  },
+  {
+    "skill": "Oracle WebLogic Server",
+    "tags": [
+      "Middleware",
+      "Java EE",
+      "Back-end Web Development",
+      "Server"
+    ]
+  },
+  {
+    "skill": "Infrastructure Management",
+    "tags": [
+      "IT Operations",
+      "Network",
+      "Security",
+      "DevOps"
+    ]
+  },
+  {
+    "skill": "Snowflake",
+    "tags": [
+      "Cloud Computing",
+      "Database",
+      "Data Warehousing",
+      "SQL",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Ethereum",
+    "tags": [
+      "Blockchain",
+      "Cryptocurrency",
+      "Smart Contracts",
+      "Decentralized Applications",
+      "Solidity"
+    ]
+  },
+  {
+    "skill": "IBM Websphere Application Server",
+    "tags": [
+      "Back-end Web Development",
+      "Server",
+      "Middleware",
+      "Java",
+      "Performance monitoring",
+      "Security",
+      "Network"
+    ]
+  },
+  {
+    "skill": "UML",
+    "tags": [
+      "Software Design",
+      "Diagram",
+      "Modeling"
+    ]
+  },
+  {
+    "skill": "Windows PowerShell",
+    "tags": [
+      "Scripting Language",
+      "Windows",
+      "System Administration",
+      "Automation"
+    ]
+  },
+  {
+    "skill": "Grpc",
+    "tags": [
+      "Protocol",
+      "API",
+      "Microservices",
+      "Performance",
+      "Network"
+    ]
+  },
+  {
+    "skill": "Api Design",
+    "tags": [
+      "API",
+      "Software Design",
+      "Microservices",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Api Gateway",
+    "tags": [
+      "API",
+      "Back-end Web Development",
+      "Cloud Computing",
+      "Network"
+    ]
+  },
+  {
+    "skill": "Testing (Software)",
+    "tags": [
+      "Quality Assurance",
+      "Software Development",
+      "Debugging"
+    ]
+  },
+  {
+    "skill": "Apache Struts",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Cucumber (Software)",
+    "tags": [
+      "Testing",
+      "Behavior Driven Development",
+      "Software Development"
+    ]
+  },
+  {
+    "skill": "Gatsby",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Framework",
+      "Library",
+      "Static Site Generator"
+    ]
+  },
+  {
+    "skill": "Unity 3d",
+    "tags": [
+      "Game Development",
+      "C#",
+      "3D Modeling",
+      "Virtual Reality",
+      "Augmented Reality"
+    ]
+  },
+  {
+    "skill": "NetBeans",
+    "tags": [
+      "Java",
+      "Integrated Development Environment",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Gradle",
+    "tags": [
+      "Build Automation",
+      "Java",
+      "Groovy",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "CodeIgniter",
+    "tags": [
+      "PHP",
+      "Back-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Keras",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks",
+      "Data Science",
+      "AI"
+    ]
+  },
+  {
+    "skill": "Three.js",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Library",
+      "3D Graphics"
+    ]
+  },
+  {
+    "skill": "Fastapi",
+    "tags": [
+      "Python",
+      "Back-end Web Development",
+      "Framework",
+      "API"
+    ]
+  },
+  {
+    "skill": "Bash Shell",
+    "tags": [
+      "Scripting Language",
+      "System Administration",
+      "DevOps"
+    ]
+  },
+  {
+    "skill": "Data Analysis",
+    "tags": [
+      "Data Science",
+      "Statistics",
+      "Machine Learning",
+      "Data Visualization"
+    ]
+  },
+  {
+    "skill": "Software Design Patterns",
+    "tags": [
+      "Software Engineering",
+      "Object-Oriented Programming",
+      "System Design"
+    ]
+  },
+  {
+    "skill": "Npm(Software)",
+    "tags": [
+      "JavaScript",
+      "Package Manager",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Grunt (Software)",
+    "tags": [
+      "JavaScript",
+      "Task Runner",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Oracle Databases",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Relational Database",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Programming Tools",
+    "tags": [
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Symfony",
+    "tags": [
+      "PHP",
+      "Back-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Apache Hadoop",
+    "tags": [
+      "Big Data",
+      "Data Processing",
+      "Distributed Systems",
+      "Java",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Cloudwatch",
+    "tags": [
+      "Cloud Computing",
+      "Monitoring",
+      "AWS",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Joomla",
+    "tags": [
+      "Content Management System",
+      "PHP",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Time Management",
+    "tags": [
+      "Soft Skills"
+    ]
+  },
+  {
+    "skill": "MariaDB",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Relational Database",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Adobe Illustrator",
+    "tags": [
+      "Graphic Design",
+      "Vector Graphics",
+      "Adobe Suite"
+    ]
+  },
+  {
+    "skill": "Identity Management",
+    "tags": [
+      "Security",
+      "Access Control",
+      "IT Management"
+    ]
+  },
+  {
+    "skill": "Adobe",
+    "tags": [
+      "Software Development",
+      "Graphic Design",
+      "Video Editing",
+      "Web Development"
+    ]
+  },
+  {
+    "skill": "Mobile Application Software",
+    "tags": [
+      "Mobile Development",
+      "Software Development",
+      "App Design"
+    ]
+  },
+  {
+    "skill": "Twilio",
+    "tags": [
+      "Cloud Communications",
+      "API",
+      "Back-end Web Development",
+      "SMS",
+      "Voice"
+    ]
+  },
+  {
+    "skill": "Matplotlib",
+    "tags": [
+      "Python",
+      "Data Visualization",
+      "Library"
+    ]
+  },
+  {
+    "skill": "RxJS",
+    "tags": [
+      "JavaScript",
+      "Library",
+      "Reactive Programming"
+    ]
+  },
+  {
+    "skill": "AWS Lambda",
+    "tags": [
+      "Cloud Computing",
+      "Serverless Computing",
+      "Infrastructure",
+      "Toolings",
+      "API",
+      "Back-end Web Development",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Swagger",
+    "tags": [
+      "API",
+      "Documentation",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Java Message Service (JMS)",
+    "tags": [
+      "Java",
+      "Messaging",
+      "Middleware",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Success Driven Person",
+    "tags": [
+      "Soft Skills",
+      "Personal Development"
+    ]
+  },
+  {
+    "skill": "Grafana",
+    "tags": [
+      "Data Visualization",
+      "Monitoring",
+      "Analytics",
+      "DevOps"
+    ]
+  },
+  {
+    "skill": "Cryptography",
+    "tags": [
+      "Security",
+      "Encryption",
+      "Algorithms",
+      "Computer Science"
+    ]
+  }
+]

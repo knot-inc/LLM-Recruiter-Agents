@@ -1,0 +1,572 @@
+[
+  {
+    "skill": "Perl (Programming Language)",
+    "tags": [
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "Protocol Buffers",
+    "tags": [
+      "Data Structure",
+      "Serialization",
+      "Interface Definition Language"
+    ]
+  },
+  {
+    "skill": "Qt Modeling Language (QML)",
+    "tags": [
+      "Programming Language",
+      "User Interface Design",
+      "JavaScript",
+      "CSS",
+      "JSON"
+    ]
+  },
+  {
+    "skill": "DocuSign",
+    "tags": [
+      "Electronic Signature",
+      "Document Management",
+      "API",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Cloud Computing Security",
+    "tags": [
+      "Cloud Computing",
+      "Security",
+      "Network",
+      "Compliance",
+      "Encryption",
+      "Data Protection"
+    ]
+  },
+  {
+    "skill": "Microsoft Teams",
+    "tags": [
+      "Communication",
+      "Collaboration",
+      "Project management",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Bitcoin",
+    "tags": [
+      "Cryptocurrency",
+      "Blockchain",
+      "Financial Technology",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Application Data",
+    "tags": [
+      "Data Management",
+      "Data Analysis",
+      "Database"
+    ]
+  },
+  {
+    "skill": "JavaServer Faces",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Webdriver",
+    "tags": [
+      "Testing",
+      "Automation",
+      "Toolings",
+      "Front-end Web Development",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Dask",
+    "tags": [
+      "Python",
+      "Data Processing",
+      "Parallel Computing",
+      "Big Data",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Yahoo! User Interface Library (YUI)",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Dynamic HTML",
+    "tags": [
+      "HTML",
+      "Front-end Web Development",
+      "Scripting"
+    ]
+  },
+  {
+    "skill": "Scripting",
+    "tags": [
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "XMLSpy",
+    "tags": [
+      "XML",
+      "Toolings",
+      "Data Modeling"
+    ]
+  },
+  {
+    "skill": "Web Analytics",
+    "tags": [
+      "Data Analysis",
+      "SEO",
+      "Marketing",
+      "Digital Marketing"
+    ]
+  },
+  {
+    "skill": "Adobe Flash",
+    "tags": [
+      "Multimedia",
+      "Animation",
+      "Web Development",
+      "Deprecated"
+    ]
+  },
+  {
+    "skill": "Visualization",
+    "tags": [
+      "Data Analysis",
+      "Data Science",
+      "Graphic Design"
+    ]
+  },
+  {
+    "skill": "Facebook Ads Api",
+    "tags": [
+      "Digital Marketing",
+      "Social Media Marketing",
+      "API",
+      "Advertising"
+    ]
+  },
+  {
+    "skill": "Google AdSense",
+    "tags": [
+      "Digital Marketing",
+      "Advertising",
+      "Monetization"
+    ]
+  },
+  {
+    "skill": "Rich Site Summary (RSS)",
+    "tags": [
+      "Web Feed",
+      "XML",
+      "Web Syndication"
+    ]
+  },
+  {
+    "skill": "Ember.Js",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Financial Management",
+    "tags": [
+      "Finance",
+      "Budgeting",
+      "Forecasting",
+      "Financial Analysis",
+      "Risk Management"
+    ]
+  },
+  {
+    "skill": "SAP Applications",
+    "tags": [
+      "Enterprise Resource Planning",
+      "Business Process",
+      "Data Management",
+      "Software"
+    ]
+  },
+  {
+    "skill": "Apache JMeter",
+    "tags": [
+      "Load Testing",
+      "Performance Measurement",
+      "Software Testing",
+      "Java"
+    ]
+  },
+  {
+    "skill": "Apache Zookeeper",
+    "tags": [
+      "Back-end Web Development",
+      "Distributed Systems",
+      "Coordination Service",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Logstash",
+    "tags": [
+      "Data Processing",
+      "Serverless Computing",
+      "Toolings",
+      "Back-end Web Development",
+      "DevOps",
+      "Performance monitoring",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Mule",
+    "tags": [
+      "Enterprise Service Bus",
+      "Integration",
+      "API",
+      "Back-end Web Development",
+      "DevOps"
+    ]
+  },
+  {
+    "skill": "Eloqua",
+    "tags": [
+      "Marketing Automation",
+      "CRM",
+      "Toolings",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Pentaho Data Integration",
+    "tags": [
+      "Data Integration",
+      "ETL",
+      "Business Intelligence",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "ZFS File System",
+    "tags": [
+      "File System",
+      "Storage",
+      "Data Management"
+    ]
+  },
+  {
+    "skill": "Slurm",
+    "tags": [
+      "Job Scheduler",
+      "High-Performance Computing",
+      "Resource Management"
+    ]
+  },
+  {
+    "skill": "Kernel-Based Virtual Machine",
+    "tags": [
+      "Virtualization",
+      "Kernel",
+      "Linux",
+      "System Administration"
+    ]
+  },
+  {
+    "skill": "U-Boot",
+    "tags": [
+      "Bootloader",
+      "Embedded Systems",
+      "Firmware"
+    ]
+  },
+  {
+    "skill": "Unreal Engine",
+    "tags": [
+      "Game Development",
+      "3D Modeling",
+      "C++",
+      "Virtual Reality",
+      "Augmented Reality"
+    ]
+  },
+  {
+    "skill": "WebGL",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "3D Graphics",
+      "API"
+    ]
+  },
+  {
+    "skill": "DirectX (Software)",
+    "tags": [
+      "API",
+      "Game Development",
+      "3D Graphics",
+      "Microsoft"
+    ]
+  },
+  {
+    "skill": "NFT",
+    "tags": [
+      "Blockchain",
+      "Cryptocurrency",
+      "Digital Asset"
+    ]
+  },
+  {
+    "skill": "Google Play",
+    "tags": [
+      "Mobile App Development",
+      "Android",
+      "App Store",
+      "Distribution Platform"
+    ]
+  },
+  {
+    "skill": "Material Design",
+    "tags": [
+      "UI/UX Design",
+      "Google",
+      "Front-end Web Development"
+    ]
+  },
+  {
+    "skill": "Protractor",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Testing",
+      "Framework"
+    ]
+  },
+  {
+    "skill": "Apex Code",
+    "tags": [
+      "Salesforce",
+      "Back-end Web Development",
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "Bower",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Package Manager",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Bundler",
+    "tags": [
+      "Ruby",
+      "Back-end Web Development",
+      "Package Manager",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "CakePHP",
+    "tags": [
+      "PHP",
+      "Back-end Web Development",
+      "Framework",
+      "MVC"
+    ]
+  },
+  {
+    "skill": "Powerapps",
+    "tags": [
+      "Microsoft",
+      "Low-code development platform",
+      "Application Development",
+      "Front-end Web Development"
+    ]
+  },
+  {
+    "skill": "Microsoft SharePoint",
+    "tags": [
+      "Microsoft",
+      "Content Management System",
+      "Collaboration",
+      "Document Management",
+      "Web Application",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Multitier Architecture",
+    "tags": [
+      "Software Architecture",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Gerrit",
+    "tags": [
+      "Version Control System",
+      "Code Review",
+      "Project Management",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "BigQuery",
+    "tags": [
+      "Google",
+      "Data Analysis",
+      "Data Warehouse",
+      "SQL",
+      "Cloud Computing",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Large Language Models",
+    "tags": [
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Natural Language Processing",
+      "Data Science"
+    ]
+  },
+  {
+    "skill": "Dynatrace",
+    "tags": [
+      "Performance monitoring",
+      "DevOps",
+      "Cloud Computing",
+      "Analytics",
+      "APM"
+    ]
+  },
+  {
+    "skill": "Chatbots",
+    "tags": [
+      "Artificial Intelligence",
+      "Natural Language Processing",
+      "Machine Learning",
+      "User Interface",
+      "Customer Service"
+    ]
+  },
+  {
+    "skill": "Vmware",
+    "tags": [
+      "Virtualization",
+      "Cloud Computing",
+      "Infrastructure",
+      "Network",
+      "Security"
+    ]
+  },
+  {
+    "skill": "OpenStack",
+    "tags": [
+      "Cloud Computing",
+      "Infrastructure",
+      "Open Source",
+      "Virtualization",
+      "Network"
+    ]
+  },
+  {
+    "skill": "Message Queuing Telemetry Transport (MQTT)",
+    "tags": [
+      "IoT",
+      "Protocol",
+      "Networking",
+      "Data Transfer"
+    ]
+  },
+  {
+    "skill": "SailPoint",
+    "tags": [
+      "Identity Management",
+      "Security",
+      "Compliance",
+      "Governance"
+    ]
+  },
+  {
+    "skill": "SAP HANA",
+    "tags": [
+      "Database",
+      "In-memory Computing",
+      "Analytics",
+      "Business Intelligence",
+      "Data Warehousing"
+    ]
+  },
+  {
+    "skill": "Amazon Redshift",
+    "tags": [
+      "Database",
+      "Data Warehousing",
+      "Cloud Computing",
+      "Analytics",
+      "Big Data"
+    ]
+  },
+  {
+    "skill": "Spring Jdbc",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Framework",
+      "Library",
+      "Database"
+    ]
+  },
+  {
+    "skill": "OpenID",
+    "tags": [
+      "Authentication",
+      "Security",
+      "Single Sign-On",
+      "Protocol"
+    ]
+  },
+  {
+    "skill": "PuTTY",
+    "tags": [
+      "Network",
+      "SSH",
+      "Telnet",
+      "Remote Access",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Puppet",
+    "tags": [
+      "Configuration Management",
+      "DevOps",
+      "Infrastructure",
+      "Toolings"
+    ]
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "skill": "ReactJS",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "JavaScript (Programming Language)",
+    "tags": [
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "Node.Js",
+    "tags": [
+      "Back-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Cascading Style Sheets (CSS)",
+    "tags": [
+      "Programming Language",
+      "Front-end Web Development"
+    ]
+  },
+  {
+    "skill": "Amazon Web Services",
+    "tags": [
+      "Cloud Computing",
+      "Serverless Computing",
+      "Infrastructure",
+      "Toolings",
+      "API",
+      "Back-end Web Development",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "TypeScript",
+    "tags": [
+      "Programming Language",
+      "Front-end Web Development",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "MongoDB",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "NoSQL",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Python (Programming Language)",
+    "tags": [
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "MySQL",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Relational Database",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Java (Programming Language)",
+    "tags": [
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "HTML",
+    "tags": [
+      "Programming Language",
+      "Front-end Web Development"
+    ]
+  },
+  {
+    "skill": "AngularJS",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Git",
+    "tags": [
+      "Version Control",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "PostgreSQL",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Relational Database",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Docker",
+    "tags": [
+      "Containerization",
+      "DevOps",
+      "Toolings",
+      "Infrastructure"
+    ]
+  },
+  {
+    "skill": "React Redux",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Framework",
+      "Library",
+      "State Management"
+    ]
+  },
+  {
+    "skill": "Graphql",
+    "tags": [
+      "API",
+      "Data Query Language",
+      "Back-end Web Development",
+      "Front-end Web Development"
+    ]
+  },
+  {
+    "skill": "Restful APIs",
+    "tags": [
+      "API",
+      "Back-end Web Development",
+      "Front-end Web Development"
+    ]
+  },
+  {
+    "skill": "Next.js",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Framework",
+      "Library",
+      "Server-side Rendering"
+    ]
+  },
+  {
+    "skill": "Vue.js",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Django Web Framework",
+    "tags": [
+      "Python",
+      "Back-end Web Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "PHP (Programming Language)",
+    "tags": [
+      "Programming Language",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Bootstrap (Software)",
+    "tags": [
+      "Front-end Web Development",
+      "Framework",
+      "Library",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "skill": "Github",
+    "tags": [
+      "Project management",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "JIRA",
+    "tags": [
+      "Project management",
+      "Toolings",
+      "Agile",
+      "Scrum"
+    ]
+  }
+]

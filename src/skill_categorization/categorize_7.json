@@ -1,0 +1,877 @@
+[
+  {
+    "skill": ".NET Framework 4",
+    "tags": [
+      "Back-end Web Development",
+      "Framework",
+      "Library",
+      "Microsoft"
+    ]
+  },
+  {
+    "skill": "SQL Server Management Studio (SSMS)",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Relational Database",
+      "Data modeling",
+      "Performance tuning",
+      "Microsoft"
+    ]
+  },
+  {
+    "skill": "Windows Servers",
+    "tags": [
+      "Server Management",
+      "Microsoft",
+      "Network",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Customer Relationship Management",
+    "tags": [
+      "Business",
+      "Management",
+      "Customer Service"
+    ]
+  },
+  {
+    "skill": "Capistrano",
+    "tags": [
+      "Deployment",
+      "Toolings",
+      "Ruby"
+    ]
+  },
+  {
+    "skill": "CoffeeScript",
+    "tags": [
+      "Programming Language",
+      "JavaScript"
+    ]
+  },
+  {
+    "skill": "Continuous Delivery",
+    "tags": [
+      "DevOps",
+      "Software Development",
+      "Deployment"
+    ]
+  },
+  {
+    "skill": "Microarchitecture",
+    "tags": [
+      "Computer Architecture",
+      "Hardware",
+      "Design"
+    ]
+  },
+  {
+    "skill": "A/B Testing",
+    "tags": [
+      "Data Analysis",
+      "Marketing",
+      "User Experience"
+    ]
+  },
+  {
+    "skill": "Adobe Analytics",
+    "tags": [
+      "Data Analysis",
+      "Marketing",
+      "Web Analytics"
+    ]
+  },
+  {
+    "skill": "Building Codes",
+    "tags": [
+      "Civil Engineering",
+      "Construction",
+      "Regulations",
+      "Safety Standards"
+    ]
+  },
+  {
+    "skill": "Reliability",
+    "tags": [
+      "Quality Assurance",
+      "System Design",
+      "Performance Monitoring"
+    ]
+  },
+  {
+    "skill": "Spock",
+    "tags": [
+      "Testing",
+      "Java",
+      "Groovy",
+      "Framework"
+    ]
+  },
+  {
+    "skill": "Istio",
+    "tags": [
+      "Service Mesh",
+      "Microservices",
+      "Cloud Computing",
+      "Network",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Quartz (Graphics Layer)",
+    "tags": [
+      "Graphics",
+      "User Interface",
+      "Apple",
+      "macOS",
+      "iOS"
+    ]
+  },
+  {
+    "skill": "Symphony",
+    "tags": [
+      "Framework",
+      "PHP",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Administrative Operations",
+    "tags": [
+      "Management",
+      "Operations",
+      "Administration"
+    ]
+  },
+  {
+    "skill": "Hadoop Distributed File System",
+    "tags": [
+      "Big Data",
+      "Data Storage",
+      "Distributed Systems",
+      "Data Management"
+    ]
+  },
+  {
+    "skill": "Jupyter",
+    "tags": [
+      "Data Science",
+      "Python",
+      "Data Analysis",
+      "Machine Learning",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Lex (Software)",
+    "tags": [
+      "Natural Language Processing",
+      "AI",
+      "Machine Learning",
+      "AWS",
+      "Chatbot"
+    ]
+  },
+  {
+    "skill": "SciPy",
+    "tags": [
+      "Python",
+      "Data Analysis",
+      "Scientific Computing",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Xgboost",
+    "tags": [
+      "Machine Learning",
+      "Library",
+      "Data Analysis"
+    ]
+  },
+  {
+    "skill": "Liquibase",
+    "tags": [
+      "Database",
+      "Database Change Management",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Payment Gateway",
+    "tags": [
+      "E-commerce",
+      "Financial Services",
+      "API",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Banking Services",
+    "tags": [
+      "Financial Services",
+      "Banking",
+      "Compliance",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Cisco",
+    "tags": [
+      "Networking",
+      "Hardware",
+      "Security",
+      "Telecommunications"
+    ]
+  },
+  {
+    "skill": "Influxdb",
+    "tags": [
+      "Database",
+      "Time Series Database",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Query Performance",
+    "tags": [
+      "Database",
+      "Performance tuning",
+      "SQL"
+    ]
+  },
+  {
+    "skill": "Apache Lucene",
+    "tags": [
+      "Search Engine",
+      "Java",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Aws Command Line Interface (CLI)",
+    "tags": [
+      "Cloud Computing",
+      "Serverless Computing",
+      "Infrastructure",
+      "Toolings",
+      "API",
+      "Back-end Web Development",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "SQL Server Management Studio",
+    "tags": [
+      "Database",
+      "SQL",
+      "Data modeling",
+      "Performance tuning",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Stripe",
+    "tags": [
+      "Payment Gateway",
+      "API",
+      "Back-end Web Development",
+      "E-commerce"
+    ]
+  },
+  {
+    "skill": "Web Application Security",
+    "tags": [
+      "Security",
+      "Web Development",
+      "Back-end Web Development",
+      "Front-end Web Development"
+    ]
+  },
+  {
+    "skill": "Burn Down Chart",
+    "tags": [
+      "Project management",
+      "Agile",
+      "Scrum"
+    ]
+  },
+  {
+    "skill": "Cisco Unified Communications Manager",
+    "tags": [
+      "Network",
+      "Communications",
+      "Infrastructure",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "OTRS",
+    "tags": [
+      "Customer Service",
+      "Ticketing System",
+      "Help Desk Software"
+    ]
+  },
+  {
+    "skill": "Productivity Software",
+    "tags": [
+      "Software",
+      "Office Applications",
+      "Time Management"
+    ]
+  },
+  {
+    "skill": "Gantt Charts",
+    "tags": [
+      "Project Management",
+      "Planning",
+      "Scheduling"
+    ]
+  },
+  {
+    "skill": "Forecasting Skills",
+    "tags": [
+      "Data Analysis",
+      "Predictive Modeling",
+      "Statistics"
+    ]
+  },
+  {
+    "skill": "Compilers",
+    "tags": [
+      "Programming",
+      "Software Development",
+      "Code Optimization"
+    ]
+  },
+  {
+    "skill": "Kernel Debuggers",
+    "tags": [
+      "Debugging",
+      "Kernel",
+      "Software Development"
+    ]
+  },
+  {
+    "skill": "Nvidia CUDA",
+    "tags": [
+      "Parallel Computing",
+      "GPU",
+      "Programming Language",
+      "Software Development"
+    ]
+  },
+  {
+    "skill": "OpenMP",
+    "tags": [
+      "Parallel Computing",
+      "API",
+      "Programming Language",
+      "Software Development"
+    ]
+  },
+  {
+    "skill": "Spacy",
+    "tags": [
+      "Natural Language Processing",
+      "Python",
+      "Machine Learning",
+      "Library"
+    ]
+  },
+  {
+    "skill": "User-Centered Design",
+    "tags": [
+      "Design",
+      "UX/UI",
+      "Product Development"
+    ]
+  },
+  {
+    "skill": "Customer Communications Management",
+    "tags": [
+      "Communication",
+      "Customer Service",
+      "Management"
+    ]
+  },
+  {
+    "skill": "Telephone Skills",
+    "tags": [
+      "Communication",
+      "Customer Service"
+    ]
+  },
+  {
+    "skill": "Software Library",
+    "tags": [
+      "Programming",
+      "Software Development"
+    ]
+  },
+  {
+    "skill": "Network Security",
+    "tags": [
+      "IT",
+      "Cybersecurity",
+      "Network"
+    ]
+  },
+  {
+    "skill": "Cadence Virtuoso",
+    "tags": [
+      "Electronic Design Automation",
+      "Circuit Design",
+      "Software"
+    ]
+  },
+  {
+    "skill": "Teaching",
+    "tags": [
+      "Education",
+      "Communication",
+      "Presentation"
+    ]
+  },
+  {
+    "skill": "Webflow",
+    "tags": [
+      "Web Design",
+      "Front-end Web Development",
+      "CMS"
+    ]
+  },
+  {
+    "skill": "Uikit",
+    "tags": [
+      "Front-end Web Development",
+      "CSS",
+      "JavaScript",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Perforce",
+    "tags": [
+      "Version Control System",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Neo4j",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "Graph Database",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Creating Prototypes",
+    "tags": [
+      "Design",
+      "User Experience",
+      "Product Development"
+    ]
+  },
+  {
+    "skill": "CentOS",
+    "tags": [
+      "Operating System",
+      "Linux",
+      "System Administration"
+    ]
+  },
+  {
+    "skill": "PHP Development",
+    "tags": [
+      "Programming Language",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "PHP Frameworks",
+    "tags": [
+      "Programming Language",
+      "Back-end Web Development",
+      "Framework"
+    ]
+  },
+  {
+    "skill": "Presentations",
+    "tags": [
+      "Communication",
+      "Public Speaking",
+      "Business"
+    ]
+  },
+  {
+    "skill": "Brand Management",
+    "tags": [
+      "Marketing",
+      "Strategy",
+      "Business"
+    ]
+  },
+  {
+    "skill": "Audience Measurement",
+    "tags": [
+      "Analytics",
+      "Marketing",
+      "Data Analysis"
+    ]
+  },
+  {
+    "skill": "Customer Experience",
+    "tags": [
+      "Marketing",
+      "Customer Service",
+      "Strategy"
+    ]
+  },
+  {
+    "skill": "Pair Programming",
+    "tags": [
+      "Software Development",
+      "Teamwork",
+      "Agile Methodology"
+    ]
+  },
+  {
+    "skill": "Software Architecture",
+    "tags": [
+      "Software Development",
+      "System Design",
+      "Planning"
+    ]
+  },
+  {
+    "skill": "Database Tools and Utilities",
+    "tags": [
+      "Database",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Dialectical Behavior Therapy",
+    "tags": [
+      "Therapy",
+      "Psychology",
+      "Mental Health"
+    ]
+  },
+  {
+    "skill": "Visual Effects",
+    "tags": [
+      "Graphics",
+      "Animation",
+      "Film Production"
+    ]
+  },
+  {
+    "skill": "Ios Frameworks",
+    "tags": [
+      "iOS",
+      "Mobile Development",
+      "Framework",
+      "Library"
+    ]
+  },
+  {
+    "skill": "Lean Processes",
+    "tags": [
+      "Business Strategy",
+      "Process Optimization",
+      "Management"
+    ]
+  },
+  {
+    "skill": "Performance Management",
+    "tags": [
+      "Business",
+      "Management",
+      "Strategy",
+      "Operations"
+    ]
+  },
+  {
+    "skill": "Markup Languages",
+    "tags": [
+      "Programming Language",
+      "Web Development"
+    ]
+  },
+  {
+    "skill": "Queueing Systems",
+    "tags": [
+      "Data Structures",
+      "Algorithms",
+      "Computer Science"
+    ]
+  },
+  {
+    "skill": "BigTable",
+    "tags": [
+      "Database",
+      "NoSQL",
+      "Google Cloud",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Google App Engines",
+    "tags": [
+      "Cloud Computing",
+      "Serverless Computing",
+      "Google Cloud",
+      "Back-end Web Development",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Zendesk",
+    "tags": [
+      "Customer Service",
+      "Ticketing System",
+      "CRM",
+      "Project Management"
+    ]
+  },
+  {
+    "skill": "Anaconda",
+    "tags": [
+      "Python",
+      "Data Science",
+      "Machine Learning",
+      "Data Analysis",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Elastic Beanstalk",
+    "tags": [
+      "Cloud Computing",
+      "AWS",
+      "DevOps",
+      "Infrastructure",
+      "Serverless Computing",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Regular Expressions",
+    "tags": [
+      "Programming Language",
+      "Pattern Matching",
+      "Data Processing"
+    ]
+  },
+  {
+    "skill": "Knowledge of Mathematics",
+    "tags": [
+      "Mathematics",
+      "Problem Solving",
+      "Logical Thinking",
+      "Data Analysis"
+    ]
+  },
+  {
+    "skill": "Economy",
+    "tags": [
+      "Business",
+      "Finance",
+      "Macro-economics",
+      "Micro-economics"
+    ]
+  },
+  {
+    "skill": "Cloudflare",
+    "tags": [
+      "CDN",
+      "Security",
+      "DNS",
+      "Web Performance",
+      "DDoS Protection"
+    ]
+  },
+  {
+    "skill": "Rancher",
+    "tags": [
+      "Container Management",
+      "DevOps",
+      "Kubernetes",
+      "Docker",
+      "Orchestration"
+    ]
+  },
+  {
+    "skill": "Sourcetree",
+    "tags": [
+      "Version Control",
+      "Git",
+      "Project Management",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Boomi",
+    "tags": [
+      "Integration",
+      "Cloud Computing",
+      "API Management",
+      "Data Integration",
+      "iPaaS"
+    ]
+  },
+  {
+    "skill": "Technology Integration",
+    "tags": [
+      "IT",
+      "Project Management",
+      "System Design",
+      "System Implementation"
+    ]
+  },
+  {
+    "skill": "Elk Stack",
+    "tags": [
+      "Data Analysis",
+      "Log Management",
+      "Monitoring",
+      "Back-end Web Development",
+      "DevOps"
+    ]
+  },
+  {
+    "skill": "3d Models",
+    "tags": [
+      "3D Design",
+      "Graphic Design",
+      "Animation",
+      "CAD"
+    ]
+  },
+  {
+    "skill": "Quantum GIS (QGIS)",
+    "tags": [
+      "Data Analysis",
+      "Geospatial Analysis",
+      "Mapping",
+      "Open Source Software"
+    ]
+  },
+  {
+    "skill": "Blenders",
+    "tags": [
+      "3D Design",
+      "Animation",
+      "Graphic Design",
+      "Open Source Software"
+    ]
+  },
+  {
+    "skill": "M Programming Language",
+    "tags": [
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "Katalon Studio",
+    "tags": [
+      "Test Automation",
+      "Software Testing",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Access Controls",
+    "tags": [
+      "Security",
+      "Network",
+      "IT Infrastructure"
+    ]
+  },
+  {
+    "skill": "Medical Records",
+    "tags": [
+      "Healthcare",
+      "Data Management",
+      "Database"
+    ]
+  },
+  {
+    "skill": "Business Logic",
+    "tags": [
+      "Software Development",
+      "Back-end Web Development",
+      "Business Analysis"
+    ]
+  },
+  {
+    "skill": "Tokenization",
+    "tags": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Data Science",
+      "Text Analysis"
+    ]
+  },
+  {
+    "skill": "Reliability Engineering",
+    "tags": [
+      "Engineering",
+      "System Design",
+      "Performance monitoring",
+      "Security"
+    ]
+  },
+  {
+    "skill": "Strategic Alliances",
+    "tags": [
+      "Business Strategy",
+      "Partnership Management",
+      "Business Development"
+    ]
+  },
+  {
+    "skill": "Continuous Training",
+    "tags": [
+      "Employee Development",
+      "Learning and Development",
+      "Human Resources"
+    ]
+  },
+  {
+    "skill": "Emotional Intelligence",
+    "tags": [
+      "Soft Skills",
+      "Leadership",
+      "People Management",
+      "Communication Skills"
+    ]
+  },
+  {
+    "skill": "Mustache",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Template Engine"
+    ]
+  }
+]

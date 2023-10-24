@@ -1,0 +1,477 @@
+[
+  {
+    "skill": "React Native",
+    "tags": ["JavaScript", "Mobile App Development", "Framework", "Library"]
+  },
+  {
+    "skill": "Express.js",
+    "tags": ["JavaScript", "Back-end Web Development", "Framework", "Library"]
+  },
+  {
+    "skill": "Microsoft Azure",
+    "tags": [
+      "Cloud Computing",
+      "Serverless Computing",
+      "Infrastructure",
+      "Toolings",
+      "API",
+      "Back-end Web Development",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "JQuery",
+    "tags": ["JavaScript", "Front-end Web Development", "Library"]
+  },
+  {
+    "skill": "Kubernetes",
+    "tags": [
+      "Containerization",
+      "DevOps",
+      "Infrastructure",
+      "Toolings",
+      "Network",
+      "Security"
+    ]
+  },
+  {
+    "skill": "HTML5",
+    "tags": ["Front-end Web Development", "Markup Language"]
+  },
+  {
+    "skill": "Spring-boot",
+    "tags": ["Java", "Back-end Web Development", "Framework", "Library"]
+  },
+  {
+    "skill": "Agile Methodology",
+    "tags": ["Project Management", "Software Development Methodology"]
+  },
+  {
+    "skill": "C Sharp (Programming Language)",
+    "tags": ["Programming Language"]
+  },
+  {
+    "skill": "Jenkins",
+    "tags": [
+      "Continuous Integration",
+      "Continuous Deployment",
+      "DevOps",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "C++",
+    "tags": ["Programming Language"]
+  },
+  {
+    "skill": "Linux",
+    "tags": ["Operating System", "System Administration", "Security", "Network"]
+  },
+  {
+    "skill": "Laravel",
+    "tags": ["PHP", "Back-end Web Development", "Framework", "Library"]
+  },
+  {
+    "skill": "Continuous Integration",
+    "tags": ["DevOps", "Automation", "Testing", "Toolings"]
+  },
+  {
+    "skill": "Tailwind",
+    "tags": ["CSS", "Front-end Web Development", "Framework", "Library"]
+  },
+  {
+    "skill": "Cloud Computing",
+    "tags": [
+      "Infrastructure",
+      "Network",
+      "Security",
+      "Performance monitoring",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Testing Skills",
+    "tags": [
+      "Quality Assurance",
+      "Debugging",
+      "Performance testing",
+      "Security testing"
+    ]
+  },
+  {
+    "skill": "Application Programming Interfaces (APIs)",
+    "tags": ["Back-end Web Development", "Integration", "Toolings"]
+  },
+  {
+    "skill": "Flask (Web Framework)",
+    "tags": ["Python", "Back-end Web Development", "Framework", "Library"]
+  },
+  {
+    "skill": "Scrum Methodology",
+    "tags": ["Project management", "Agile", "Teamwork"]
+  },
+  {
+    "skill": "Microsoft SQL Server",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Relational Database",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Redis",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "NoSQL",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "NestJS",
+    "tags": ["JavaScript", "Back-end Web Development", "Framework", "Library"]
+  },
+  {
+    "skill": "Firebase",
+    "tags": [
+      "Google",
+      "Back-end Web Development",
+      "Database",
+      "NoSQL",
+      "Realtime Database",
+      "Cloud Computing",
+      "Serverless Computing",
+      "Infrastructure",
+      "Toolings",
+      "API",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Webpack",
+    "tags": ["JavaScript", "Front-end Web Development", "Toolings", "Bundler"]
+  },
+  {
+    "skill": "Syntactically Awesome Style Sheets (SASS)",
+    "tags": [
+      "Programming Language",
+      "Front-end Web Development",
+      "CSS Preprocessor"
+    ]
+  },
+  {
+    "skill": "Figma",
+    "tags": ["UI/UX Design", "Prototyping", "Collaboration", "Toolings"]
+  },
+  {
+    "skill": "Cypress (Programming Language)",
+    "tags": [
+      "Programming Language",
+      "Testing",
+      "Front-end Web Development",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "WordPress",
+    "tags": [
+      "Content Management System",
+      "PHP",
+      "Front-end Web Development",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "Extensible Markup Language (XML)",
+    "tags": ["Data Format", "Data Exchange", "Markup Language"]
+  },
+  {
+    "skill": "Apache Kafka",
+    "tags": [
+      "Back-end Web Development",
+      "Data Streaming",
+      "Real-time Processing",
+      "Distributed Systems"
+    ]
+  },
+  {
+    "skill": "Amazon DynamoDB",
+    "tags": [
+      "Cloud Computing",
+      "NoSQL",
+      "Database",
+      "AWS",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Material UI",
+    "tags": [
+      "JavaScript",
+      "Front-end Web Development",
+      "Framework",
+      "Library",
+      "UI/UX Design"
+    ]
+  },
+  {
+    "skill": "Oracle Applications",
+    "tags": [
+      "Database",
+      "SQL",
+      "ERP",
+      "CRM",
+      "Business Intelligence",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Hibernate (Java)",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "ORM",
+      "Database",
+      "SQL",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Junit",
+    "tags": ["Java", "Testing", "Unit Testing", "Library"]
+  },
+  {
+    "skill": "Bitbucket",
+    "tags": ["Version Control", "Project Management", "Toolings"]
+  },
+  {
+    "skill": "Java Platform Enterprise Edition (J2EE)",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Framework",
+      "Enterprise Software"
+    ]
+  },
+  {
+    "skill": "Eclipse (Software)",
+    "tags": ["Integrated Development Environment", "Java", "Toolings"]
+  },
+  {
+    "skill": ".NET Framework",
+    "tags": ["Microsoft", "Back-end Web Development", "Framework", "C#"]
+  },
+  {
+    "skill": "Selenium",
+    "tags": ["Testing", "Automation", "Web Browser Automation", "Toolings"]
+  },
+  {
+    "skill": "Amazon S3",
+    "tags": [
+      "Cloud Computing",
+      "Storage",
+      "Infrastructure",
+      "Toolings",
+      "API",
+      "Back-end Web Development",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Amazon Elastic Compute Cloud",
+    "tags": [
+      "Cloud Computing",
+      "Infrastructure",
+      "Toolings",
+      "API",
+      "Back-end Web Development",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Postman",
+    "tags": ["API Testing", "Toolings", "Back-end Web Development"]
+  },
+  {
+    "skill": "Web Services",
+    "tags": ["Back-end Web Development", "API", "Network"]
+  },
+  {
+    "skill": "Ruby on Rails",
+    "tags": ["Ruby", "Back-end Web Development", "Framework", "Library"]
+  },
+  {
+    "skill": "NoSQL",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Golang",
+    "tags": ["Programming Language", "Back-end Web Development"]
+  },
+  {
+    "skill": "Heroku",
+    "tags": [
+      "Cloud Computing",
+      "Platform as a Service",
+      "DevOps",
+      "Back-end Web Development",
+      "Toolings"
+    ]
+  },
+  {
+    "skill": "Model View Controller (MVC)",
+    "tags": [
+      "Software Design Pattern",
+      "Front-end Web Development",
+      "Back-end Web Development"
+    ]
+  },
+  {
+    "skill": "JSON",
+    "tags": ["Data Format", "Data Interchange", "JavaScript"]
+  },
+  {
+    "skill": "ECMAScript",
+    "tags": ["Programming Language", "JavaScript"]
+  },
+  {
+    "skill": "Automation of Tests",
+    "tags": ["Quality Assurance", "Testing", "Software Development"]
+  },
+  {
+    "skill": "Ajax (Programming Language)",
+    "tags": ["Programming Language", "JavaScript", "Web Development"]
+  },
+  {
+    "skill": "Gitlab",
+    "tags": ["Project management", "Toolings", "Version Control System"]
+  },
+  {
+    "skill": "Ruby",
+    "tags": ["Programming Language", "Back-end Web Development"]
+  },
+  {
+    "skill": "Apache Tomcat",
+    "tags": ["Java", "Back-end Web Development", "Server", "Middleware"]
+  },
+  {
+    "skill": "Google Cloud",
+    "tags": [
+      "Cloud Computing",
+      "Serverless Computing",
+      "Infrastructure",
+      "Toolings",
+      "API",
+      "Back-end Web Development",
+      "DevOps",
+      "Performance monitoring",
+      "Security",
+      "Network",
+      "Analytics"
+    ]
+  },
+  {
+    "skill": "Mocha",
+    "tags": ["JavaScript", "Testing", "Framework", "Library"]
+  },
+  {
+    "skill": "Enzymes",
+    "tags": ["JavaScript", "Testing", "Framework", "Library"]
+  },
+  {
+    "skill": "Unit Testing",
+    "tags": ["Software Testing", "Quality Assurance", "Debugging"]
+  },
+  {
+    "skill": "Solidity",
+    "tags": [
+      "Blockchain",
+      "Ethereum",
+      "Smart Contracts",
+      "Programming Language"
+    ]
+  },
+  {
+    "skill": "RabbitMQ",
+    "tags": [
+      "Message Broker",
+      "Back-end Web Development",
+      "Middleware",
+      "Distributed Systems"
+    ]
+  },
+  {
+    "skill": "Trello",
+    "tags": ["Project Management", "Toolings", "Agile", "Scrum"]
+  },
+  {
+    "skill": "Vuejs",
+    "tags": ["JavaScript", "Front-end Web Development", "Framework", "Library"]
+  },
+  {
+    "skill": "Java Database Connectivity",
+    "tags": [
+      "Java",
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "Microsoft Visual Studio",
+    "tags": ["Integrated Development Environment", "Toolings", ".NET", "C#"]
+  },
+  {
+    "skill": "SQLite",
+    "tags": [
+      "Back-end Web Development",
+      "Database",
+      "SQL",
+      "Relational Database",
+      "Data modeling",
+      "Performance tuning"
+    ]
+  },
+  {
+    "skill": "ASP.NET",
+    "tags": [".NET", "C#", "Back-end Web Development", "Framework", "Library"]
+  },
+  {
+    "skill": "Microsoft Windows",
+    "tags": ["Operating System", "Toolings"]
+  },
+  {
+    "skill": "Web Services",
+    "tags": ["XML", "Protocol", "Back-end Web Development"]
+  }
+]
