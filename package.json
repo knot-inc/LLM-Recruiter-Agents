@@ -15,6 +15,7 @@
     "@tsconfig/node18": "18.2.1",
     "@types/eslint": "^8.44.2",
     "@types/eslint-plugin-prettier": "^3.1.0",
+    "@types/html-to-text": "^9.0.3",
     "@types/jest": "^29.5.4",
     "@types/node": "^20.6.3",
     "@typescript-eslint/eslint-plugin": "^6.4.1",
@@ -58,7 +59,9 @@
     "@json2csv/plainjs": "^7.0.3",
     "airtable": "^0.12.2",
     "hnswlib-node": "^2.0.0",
+    "html-to-text": "^9.0.5",
     "langchain": "^0.0.153",
+    "mongodb": "^6.2.0",
     "zod": "^3.22.2"
   }
 }
