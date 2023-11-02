@@ -1,0 +1,495 @@
+{
+  "https://www.facebook.com": {
+    "id": 32245505,
+    "url": "https://www.linkedin.com/company/facebookbd",
+    "hash": "1730965a1c63ead7987e26151b5c0d13",
+    "name": "Facebook Bangladesh",
+    "website": "https://www.facebook.com",
+    "size": "10,001+ employees",
+    "industry": "Technology, Information and Internet",
+    "description": null,
+    "followers": null,
+    "founded": null,
+    "headquarters_city": null,
+    "headquarters_country": null,
+    "headquarters_state": null,
+    "headquarters_street1": null,
+    "headquarters_street2": null,
+    "headquarters_zip": null,
+    "logo_url": "https://media.licdn.com/dms/image/C560BAQHkLayVm0AQPQ/company-logo_200_200/0/1604326074950?e=2147483647&v=beta&t=dURPmVC0xBDdIB-D0AUR9SF_l_J-KrFExjzC5ayuxVA",
+    "created": "2021-01-14 06:54:32",
+    "last_updated": "2023-10-04 02:47:27",
+    "last_response_code": 200,
+    "type": "Public Company",
+    "headquarters_new_address": null,
+    "employees_count": 1,
+    "headquarters_country_restored": null,
+    "headquarters_country_parsed": null,
+    "company_shorthand_name": "facebookbd",
+    "company_shorthand_name_hash": "fe583d7501138de4accbe5c9af6cbfd4",
+    "canonical_url": "https://www.linkedin.com/company/facebookbd",
+    "canonical_hash": "1730965a1c63ead7987e26151b5c0d13",
+    "canonical_shorthand_name": "facebookbd",
+    "canonical_shorthand_name_hash": "fe583d7501138de4accbe5c9af6cbfd4",
+    "deleted": 0,
+    "last_updated_ux": 1696387647,
+    "source_id": 69367686,
+    "company_affiliated_collection": [
+      {
+        "id": 4299332,
+        "company_id": 32245505,
+        "affiliated_company_url": "https://www.linkedin.com/showcase/facebookad",
+        "affiliated_company_id": null,
+        "created": "2021-01-14 06:54:32",
+        "last_updated": "2021-10-02 21:36:04",
+        "deleted": 1
+      },
+      {
+        "id": 5460907,
+        "company_id": 32245505,
+        "affiliated_company_url": "https://www.linkedin.com/showcase/facebookad",
+        "affiliated_company_id": 56185380,
+        "created": "2021-10-02 21:36:04",
+        "last_updated": "2022-07-16 15:20:45",
+        "deleted": 1
+      },
+      {
+        "id": 6780491,
+        "company_id": 32245505,
+        "affiliated_company_url": "https://www.linkedin.com/showcase/facebookad",
+        "affiliated_company_id": 56185380,
+        "created": "2022-08-12 05:29:21",
+        "last_updated": "2023-10-04 02:47:27",
+        "deleted": 0
+      }
+    ],
+    "company_also_viewed_collection": [],
+    "company_crunchbase_info_collection": [],
+    "company_featured_employees_collection": [
+      {
+        "id": 72397999,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/in/sheik-nazmul-hasan-bapon-64a895210",
+        "created": "2021-09-06 00:12:51",
+        "last_updated": "2022-07-16 15:20:45",
+        "deleted": 1
+      },
+      {
+        "id": 98031127,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/in/sheik-nazmul-hasan-bapon-64a895210",
+        "created": "2022-07-16 15:20:45",
+        "last_updated": "2023-10-04 02:47:27",
+        "deleted": 0
+      }
+    ],
+    "company_featured_investors_collection": [],
+    "company_funding_rounds_collection": [],
+    "company_locations_collection": [],
+    "company_similar_collection": [
+      {
+        "id": 354491665,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/facebook-community-of-bangladesh",
+        "created": "2021-01-14 06:54:32",
+        "last_updated": "2021-06-24 03:56:47",
+        "deleted": 1
+      },
+      {
+        "id": 354491666,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/bdplatform4sdgs",
+        "created": "2021-01-14 06:54:32",
+        "last_updated": "2021-06-24 03:56:47",
+        "deleted": 1
+      },
+      {
+        "id": 354491667,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/harmonyos",
+        "created": "2021-01-14 06:54:32",
+        "last_updated": "2021-04-08 12:03:23",
+        "deleted": 1
+      },
+      {
+        "id": 354491668,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/facebook",
+        "created": "2021-01-14 06:54:32",
+        "last_updated": "2021-06-24 03:56:47",
+        "deleted": 1
+      },
+      {
+        "id": 354491669,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/sdgs",
+        "created": "2021-01-14 06:54:32",
+        "last_updated": "2021-04-08 12:03:23",
+        "deleted": 1
+      },
+      {
+        "id": 354491670,
+        "company_id": 32245505,
+        "url": "https://ie.linkedin.com/company/an-post",
+        "created": "2021-01-14 06:54:32",
+        "last_updated": "2021-04-08 12:03:23",
+        "deleted": 1
+      },
+      {
+        "id": 354491671,
+        "company_id": 32245505,
+        "url": "https://sg.linkedin.com/company/bigo-technology-pte.-ltd.",
+        "created": "2021-01-14 06:54:32",
+        "last_updated": "2021-06-24 03:56:47",
+        "deleted": 1
+      },
+      {
+        "id": 354491672,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/british-council",
+        "created": "2021-01-14 06:54:32",
+        "last_updated": "2021-06-24 03:56:47",
+        "deleted": 1
+      },
+      {
+        "id": 354491673,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/netflix",
+        "created": "2021-01-14 06:54:32",
+        "last_updated": "2021-04-08 12:03:23",
+        "deleted": 1
+      },
+      {
+        "id": 374580982,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/career-opportunity-in-bangladesh",
+        "created": "2021-02-16 21:49:02",
+        "last_updated": "2021-06-24 03:56:47",
+        "deleted": 1
+      },
+      {
+        "id": 389314072,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/goodfoodbd",
+        "created": "2021-04-08 12:03:23",
+        "last_updated": "2021-06-24 03:56:47",
+        "deleted": 1
+      },
+      {
+        "id": 389314073,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/youtube-bangladesh",
+        "created": "2021-04-08 12:03:23",
+        "last_updated": "2021-06-24 03:56:47",
+        "deleted": 1
+      },
+      {
+        "id": 389314074,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/staff-asia",
+        "created": "2021-04-08 12:03:23",
+        "last_updated": "2021-06-24 03:56:47",
+        "deleted": 1
+      },
+      {
+        "id": 389314075,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/geotek-inc.",
+        "created": "2021-04-08 12:03:23",
+        "last_updated": "2021-06-24 03:56:47",
+        "deleted": 1
+      },
+      {
+        "id": 463700964,
+        "company_id": 32245505,
+        "url": "https://in.linkedin.com/company/facebook-community-of-bangladesh",
+        "created": "2021-09-06 00:12:51",
+        "last_updated": "2023-06-18 11:05:31",
+        "deleted": 1
+      },
+      {
+        "id": 463700965,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/bdplatform4sdgs",
+        "created": "2021-09-06 00:12:51",
+        "last_updated": "2022-02-21 19:26:16",
+        "deleted": 1
+      },
+      {
+        "id": 463700966,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/facebook",
+        "created": "2021-09-06 00:12:51",
+        "last_updated": "2021-11-22 23:12:35",
+        "deleted": 1
+      },
+      {
+        "id": 463700967,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/career-opportunity-in-bangladesh",
+        "created": "2021-09-06 00:12:51",
+        "last_updated": "2021-10-16 05:49:15",
+        "deleted": 1
+      },
+      {
+        "id": 463700968,
+        "company_id": 32245505,
+        "url": "https://sg.linkedin.com/company/bigo-technology-pte.-ltd.",
+        "created": "2021-09-06 00:12:51",
+        "last_updated": "2022-02-21 19:26:16",
+        "deleted": 1
+      },
+      {
+        "id": 463700969,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/goodfoodbd",
+        "created": "2021-09-06 00:12:51",
+        "last_updated": "2022-02-21 19:26:16",
+        "deleted": 1
+      },
+      {
+        "id": 463700970,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/youtube-bangladesh",
+        "created": "2021-09-06 00:12:51",
+        "last_updated": "2022-02-21 19:26:16",
+        "deleted": 1
+      },
+      {
+        "id": 463700971,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/british-council",
+        "created": "2021-09-06 00:12:51",
+        "last_updated": "2022-02-21 19:26:16",
+        "deleted": 1
+      },
+      {
+        "id": 463700972,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/staff-asia",
+        "created": "2021-09-06 00:12:51",
+        "last_updated": "2022-02-21 19:26:16",
+        "deleted": 1
+      },
+      {
+        "id": 463700973,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/geotek-inc.",
+        "created": "2021-09-06 00:12:51",
+        "last_updated": "2022-02-21 19:26:16",
+        "deleted": 1
+      },
+      {
+        "id": 531216690,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/career-opportunity-in-bd",
+        "created": "2021-10-16 05:49:15",
+        "last_updated": "2022-02-21 19:26:16",
+        "deleted": 1
+      },
+      {
+        "id": 533681557,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/meta",
+        "created": "2021-11-22 23:12:35",
+        "last_updated": "2023-01-25 03:38:09",
+        "deleted": 1
+      },
+      {
+        "id": 544429416,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/httpool",
+        "created": "2022-02-21 19:26:16",
+        "last_updated": "2022-10-19 10:46:58",
+        "deleted": 1
+      },
+      {
+        "id": 544429417,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/bangladesh-auto-industries-ltd",
+        "created": "2022-02-21 19:26:16",
+        "last_updated": "2022-09-03 20:24:04",
+        "deleted": 1
+      },
+      {
+        "id": 544429419,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/digitalrealty",
+        "created": "2022-02-21 19:26:16",
+        "last_updated": "2022-09-03 20:24:04",
+        "deleted": 1
+      },
+      {
+        "id": 544429422,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/aarong",
+        "created": "2022-02-21 19:26:16",
+        "last_updated": "2022-07-10 00:28:06",
+        "deleted": 1
+      },
+      {
+        "id": 544429425,
+        "company_id": 32245505,
+        "url": "https://ie.linkedin.com/company/concern-worldwide",
+        "created": "2022-02-21 19:26:16",
+        "last_updated": "2022-09-03 20:24:04",
+        "deleted": 1
+      },
+      {
+        "id": 544429427,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/dhamaka-digital",
+        "created": "2022-02-21 19:26:16",
+        "last_updated": "2022-09-03 20:24:04",
+        "deleted": 1
+      },
+      {
+        "id": 544429430,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/jadrooonline",
+        "created": "2022-02-21 19:26:16",
+        "last_updated": "2022-08-12 05:29:21",
+        "deleted": 1
+      },
+      {
+        "id": 544429431,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/aleshamart",
+        "created": "2022-02-21 19:26:16",
+        "last_updated": "2022-07-10 00:28:06",
+        "deleted": 1
+      },
+      {
+        "id": 659418725,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/decathlonbgd",
+        "created": "2022-07-10 00:28:06",
+        "last_updated": "2022-09-03 20:24:04",
+        "deleted": 1
+      },
+      {
+        "id": 659418726,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/google",
+        "created": "2022-07-10 00:28:06",
+        "last_updated": "2022-09-03 20:24:04",
+        "deleted": 1
+      },
+      {
+        "id": 700389264,
+        "company_id": 32245505,
+        "url": "https://www.linkedin.com/company/aleshamart",
+        "created": "2022-08-12 05:29:21",
+        "last_updated": "2022-09-03 20:24:04",
+        "deleted": 1
+      },
+      {
+        "id": 703448803,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/netflix-bangladesh",
+        "created": "2022-09-03 20:24:04",
+        "last_updated": "2023-09-17 08:58:03",
+        "deleted": 1
+      },
+      {
+        "id": 703448804,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/sonysmartbd",
+        "created": "2022-09-03 20:24:04",
+        "last_updated": "2023-09-17 08:58:03",
+        "deleted": 1
+      },
+      {
+        "id": 703448805,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/mindsharebangladesh",
+        "created": "2022-09-03 20:24:04",
+        "last_updated": "2023-09-17 08:58:03",
+        "deleted": 1
+      },
+      {
+        "id": 703448806,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/chorkiofficial",
+        "created": "2022-09-03 20:24:04",
+        "last_updated": "2023-09-17 08:58:03",
+        "deleted": 1
+      },
+      {
+        "id": 703448807,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/jarvisdigital",
+        "created": "2022-09-03 20:24:04",
+        "last_updated": "2023-09-17 08:58:03",
+        "deleted": 1
+      },
+      {
+        "id": 703448808,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/samsungbangladesh",
+        "created": "2022-09-03 20:24:04",
+        "last_updated": "2023-09-17 08:58:03",
+        "deleted": 1
+      },
+      {
+        "id": 703448809,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/fcb-bitopi",
+        "created": "2022-09-03 20:24:04",
+        "last_updated": "2023-09-17 08:58:03",
+        "deleted": 1
+      },
+      {
+        "id": 730064371,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/x-integrated",
+        "created": "2022-10-19 10:46:58",
+        "last_updated": "2023-08-07 04:57:15",
+        "deleted": 1
+      },
+      {
+        "id": 768443352,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/vivo-bangladesh",
+        "created": "2023-01-25 03:38:09",
+        "last_updated": "2023-07-14 19:31:45",
+        "deleted": 1
+      },
+      {
+        "id": 838718818,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/unicefbangladesh",
+        "created": "2023-06-18 11:05:31",
+        "last_updated": "2023-07-14 19:31:45",
+        "deleted": 1
+      },
+      {
+        "id": 849661669,
+        "company_id": 32245505,
+        "url": "https://in.linkedin.com/company/facebook-community-of-bangladesh",
+        "created": "2023-07-14 19:31:45",
+        "last_updated": "2023-10-04 02:47:27",
+        "deleted": 0
+      },
+      {
+        "id": 849661670,
+        "company_id": 32245505,
+        "url": "https://pk.linkedin.com/company/facebook-page-monetization-services",
+        "created": "2023-07-14 19:31:45",
+        "last_updated": "2023-10-04 02:47:27",
+        "deleted": 0
+      },
+      {
+        "id": 863440611,
+        "company_id": 32245505,
+        "url": "https://bd.linkedin.com/company/vivo-bangladesh",
+        "created": "2023-08-07 04:57:15",
+        "last_updated": "2023-09-17 08:58:03",
+        "deleted": 1
+      }
+    ],
+    "company_specialties_collection": [],
+    "company_stock_info_collection": [],
+    "company_updates_collection": []
+  }
+}
