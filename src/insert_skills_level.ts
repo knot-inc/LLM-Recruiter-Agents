@@ -12,8 +12,8 @@ const __dirname = dirname(__filename);
 dotenv.config();
 
 // Personal Access Token
-const RECUITMENT_POC_BASE_ID = "appCtMM5bG3zNPKG0";
-const JOB_APPLICANTS_TABLE_ID = "tblwY7LZA5CFaJXIF";
+const RECUITMENT_POC_BASE_ID = process.env.RECUITMENT_POC_BASE_ID as string;
+const JOB_APPLICANTS_TABLE_ID = process.env.JOB_APPLICANTS_TABLE_ID as string;
 
 const skills: string[] = [
   "GraphQL",
