@@ -7,14 +7,20 @@ import { fileURLToPath } from "url";
 import { z } from "zod";
 import { runBatch } from "../batch/index.js";
 import { skills_test } from "./skills.js";
-import { ChatPromptTemplate } from "@langchain/core/prompts";
-import { FewShotPromptTemplate } from "@langchain/core/prompts";
-import { PromptTemplate } from "@langchain/core/prompts";
 import { OpenAI } from "@langchain/openai";
-import { RunnablePassthrough } from "@langchain/core/runnables";
-import { RunnableSequence } from "@langchain/core/runnables";
-import { StringOutputParser } from "@langchain/core/output_parsers";
-import { StructuredOutputParser } from "@langchain/core/output_parsers";
+import {
+  ChatPromptTemplate,
+  FewShotPromptTemplate,
+  PromptTemplate,
+} from "@langchain/core/prompts";
+import {
+  RunnablePassthrough,
+  RunnableSequence,
+} from "@langchain/core/runnables";
+import {
+  StringOutputParser,
+  StructuredOutputParser,
+} from "@langchain/core/output_parsers";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
