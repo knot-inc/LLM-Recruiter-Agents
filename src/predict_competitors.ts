@@ -2,11 +2,11 @@ import dotenv from "dotenv";
 dotenv.config();
 
 import { initializeAgentExecutorWithOptions } from "langchain/agents";
-import { OpenAI } from "langchain/llms/openai";
-import { StructuredOutputParser } from "langchain/output_parsers";
-import { PromptTemplate } from "langchain/prompts";
-import { GoogleCustomSearch } from "langchain/tools";
 import { z } from "zod";
+import { OpenAI } from "@langchain/openai";
+import { StructuredOutputParser } from "@langchain/core/output_parsers";
+import { PromptTemplate } from "@langchain/core/prompts";
+import { GoogleCustomSearch } from "@langchain/community/tools/google_custom_search";
 
 const zodSchema = z.object({
   industry: z.string().describe("industry of the company"),

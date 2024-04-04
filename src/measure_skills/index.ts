@@ -3,8 +3,6 @@ dotenv.config();
 import fs from "fs";
 import path, { dirname } from "path";
 import { fileURLToPath } from "url";
-
-import { OpenAI } from "langchain/llms/openai";
 import { Knowledge, ParsedResume } from "../resume_parser/resumeType";
 import { runBatch } from "../batch/index.js";
 import {
@@ -13,6 +11,7 @@ import {
   parser,
   predictProficiencyChain,
 } from "./predict_proficiency_chain.js";
+import { OpenAI } from "@langchain/openai";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);

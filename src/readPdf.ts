@@ -1,14 +1,13 @@
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
-import { OpenAIEmbeddings } from "langchain/embeddings/openai";
 // import { PineconeStore } from "langchain/vectorstores/pinecone";
-import { Pinecone } from "@pinecone-database/pinecone";
+// import { Pinecone } from "@pinecone-database/pinecone";
 import { PDFLoader } from "langchain/document_loaders/fs/pdf";
 import { MemoryVectorStore } from "langchain/vectorstores/memory";
 // import { DirectoryLoader } from "langchain/document_loaders/fs/directory";
 import { RetrievalQAChain } from "langchain/chains";
-import { ChatOpenAI } from "langchain/chat_models/openai";
-import { PromptTemplate } from "langchain/prompts";
-import { writeFile, writeFileSync } from "fs";
+import { writeFileSync } from "fs";
+import { OpenAIEmbeddings } from "@langchain/openai";
+import { ChatOpenAI } from "@langchain/openai";
 
 // const PINECONE_INDEX_NAME = "resume-parser";
 // const PINECONE_NAME_SPACE = "resume-parser-test";
@@ -64,7 +63,7 @@ export const run = async () => {
 
     const chain = RetrievalQAChain.fromLLM(model, vectorStore.asRetriever());
 
-    const response = await chain.call({
+    const response = await chain.invoke({
       query: `
       Use the context: {context} to extract the following resume information:
       {

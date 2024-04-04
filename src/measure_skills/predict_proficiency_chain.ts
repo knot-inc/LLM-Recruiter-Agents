@@ -3,22 +3,19 @@ dotenv.config();
 import fs from "fs";
 import path, { dirname } from "path";
 import { fileURLToPath } from "url";
-
-import { OpenAI } from "langchain/llms/openai";
-import { StructuredOutputParser } from "langchain/output_parsers";
-import { ChatPromptTemplate, PromptTemplate } from "langchain/prompts";
-import { Document } from "langchain/document";
 import { z } from "zod";
-import { HNSWLib } from "langchain/vectorstores/hnswlib";
-import { OpenAIEmbeddings } from "langchain/embeddings/openai";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import { ParsedResume } from "../resume_parser/resumeType";
-
-import {
-  RunnablePassthrough,
-  RunnableSequence,
-} from "langchain/schema/runnable";
-import { StringOutputParser } from "langchain/schema/output_parser";
+import { OpenAI } from "@langchain/openai";
+import { StructuredOutputParser } from "@langchain/core/output_parsers";
+import { ChatPromptTemplate } from "@langchain/core/prompts";
+import { PromptTemplate } from "@langchain/core/prompts";
+import { Document } from "@langchain/core/documents";
+import { HNSWLib } from "@langchain/community/vectorstores/hnswlib";
+import { OpenAIEmbeddings } from "@langchain/openai";
+import { RunnablePassthrough } from "@langchain/core/runnables";
+import { RunnableSequence } from "@langchain/core/runnables";
+import { StringOutputParser } from "@langchain/core/output_parsers";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);

@@ -1,7 +1,7 @@
-import { OpenAIEmbeddings } from "langchain/embeddings/openai";
 import dotenv from "dotenv";
 import data from "./data/page-1-compressed.json" assert { type: "json" };
 import { MongoClient, ServerApiVersion } from "mongodb";
+import { OpenAIEmbeddings } from "@langchain/openai";
 
 dotenv.config();
 

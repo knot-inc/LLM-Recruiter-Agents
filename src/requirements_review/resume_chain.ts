@@ -1,10 +1,9 @@
 import dotenv from "dotenv";
 dotenv.config();
-
-import { ChatOpenAI } from "langchain/chat_models/openai";
 import { ParsedResume } from "../resume_parser/resumeType.js";
 import { LLMChain } from "langchain/chains";
-import { ChatPromptTemplate } from "langchain/prompts";
+import { ChatOpenAI } from "@langchain/openai";
+import { ChatPromptTemplate } from "@langchain/core/prompts";
 
 const chat = new ChatOpenAI({
   temperature: 0,

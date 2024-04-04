@@ -1,4 +1,4 @@
-import { PromptTemplate } from "langchain/prompts";
+import { PromptTemplate } from "@langchain/core/prompts";
 
 // const skills = ["Firebase", "FireStore"];
 const skills = ["Browser extension", "Chrome extension", "Safari extension"];

@@ -17,6 +17,8 @@ import { VectorDBQAChain } from "langchain/chains";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import { ParsedResume } from "../resume_parser/resumeType";
 
+// --- as of 2024-04-04, the following code is not yet available without deprecated code ---
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 // ReAct Agent to predict proficiency level of skills

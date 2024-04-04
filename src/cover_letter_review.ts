@@ -8,18 +8,17 @@ import jdJson from "./test/jd.json" assert { type: "json" };
 import fs from "fs";
 import { fileURLToPath } from "url";
 import path, { dirname } from "path";
-import { HNSWLib } from "langchain/vectorstores/hnswlib";
-import { OpenAIEmbeddings } from "langchain/embeddings/openai";
-import { Document } from "langchain/document";
+import { HNSWLib } from "@langchain/community/vectorstores/hnswlib";
+import { ChatOpenAI, OpenAIEmbeddings } from "@langchain/openai";
 import { TextLoader } from "langchain/document_loaders/fs/text";
-import { ChatOpenAI } from "langchain/chat_models/openai";
-import { ChatPromptTemplate, PromptTemplate } from "langchain/prompts";
 import { LLMChain } from "langchain/chains";
-import {
-  OutputFixingParser,
-  StructuredOutputParser,
-} from "langchain/output_parsers";
+import { OutputFixingParser } from "langchain/output_parsers";
 import { z } from "zod";
+import { Document } from "@langchain/core/documents";
+import { ChatPromptTemplate } from "@langchain/core/prompts";
+import { PromptTemplate } from "@langchain/core/prompts";
+import { MessageContent } from "@langchain/core/messages";
+import { StructuredOutputParser } from "langchain/output_parsers";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -31,10 +30,11 @@ const chat = new ChatOpenAI({
 
 const generateHighlightPrompt = async (
   chat: ChatOpenAI,
-  input: string,
+  input: MessageContent,
   meta: string[],
 ) => {
   const metastr = meta.join(",");
+
   const zodSchema = z.object({
     qualities: z
       .array(

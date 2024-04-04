@@ -1,6 +1,6 @@
-import { OpenAIEmbeddings } from "langchain/embeddings/openai";
 import dotenv from "dotenv";
 import { MongoClient, ServerApiVersion } from "mongodb";
+import { OpenAIEmbeddings } from "@langchain/openai";
 
 dotenv.config();
 
