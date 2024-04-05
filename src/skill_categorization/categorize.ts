@@ -1,26 +1,26 @@
 import dotenv from "dotenv";
 dotenv.config();
+//import { ChatOpenAI } from "langchain/chat_models/openai";
+import fs from "fs";
+import path, { dirname } from "path";
+import { fileURLToPath } from "url";
+import { z } from "zod";
+import { runBatch } from "../batch/index.js";
+import { skills_test } from "./skills.js";
+import { OpenAI } from "@langchain/openai";
 import {
   ChatPromptTemplate,
   FewShotPromptTemplate,
   PromptTemplate,
-} from "langchain/prompts";
-import { OpenAI } from "langchain/llms/openai";
-//import { ChatOpenAI } from "langchain/chat_models/openai";
-
+} from "@langchain/core/prompts";
 import {
   RunnablePassthrough,
   RunnableSequence,
-} from "langchain/schema/runnable";
-
-import fs from "fs";
-import path, { dirname } from "path";
-import { fileURLToPath } from "url";
-import { StringOutputParser } from "langchain/schema/output_parser";
-import { z } from "zod";
-import { StructuredOutputParser } from "langchain/output_parsers";
-import { runBatch } from "../batch/index.js";
-import { skills_test } from "./skills.js";
+} from "@langchain/core/runnables";
+import {
+  StringOutputParser,
+  StructuredOutputParser,
+} from "@langchain/core/output_parsers";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);

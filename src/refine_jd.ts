@@ -1,19 +1,16 @@
 import dotenv from "dotenv";
 dotenv.config();
-import {
-  ChatPromptTemplate,
-  MessagesPlaceholder,
-  FewShotPromptTemplate,
-  PromptTemplate,
-} from "langchain/prompts";
-import { ChatOpenAI } from "langchain/chat_models/openai";
-
-import { RunnableSequence } from "langchain/schema/runnable";
 import { BufferMemory } from "langchain/memory";
 import { TextLoader } from "langchain/document_loaders/fs/text";
 import { checkbox, input } from "@inquirer/prompts";
 
 import fs from "fs";
+import { ChatPromptTemplate } from "@langchain/core/prompts";
+import { MessagesPlaceholder } from "@langchain/core/prompts";
+import { FewShotPromptTemplate } from "@langchain/core/prompts";
+import { PromptTemplate } from "@langchain/core/prompts";
+import { ChatOpenAI } from "@langchain/openai";
+import { RunnableSequence } from "@langchain/core/runnables";
 
 // Examples for the few-shot prompt
 const examples = [
@@ -102,7 +99,7 @@ const main = async () => {
       output: response,
     });
 
-    const list = JSON.parse(response.content);
+    const list = JSON.parse(response.content as string);
 
     // Asking questions for all technologies
     // for (let i = 0; i < list.length; i++) {
@@ -125,12 +122,14 @@ const main = async () => {
     };
 
     const listResponse = await chain.invoke(listInput);
-    const choices = JSON.parse(listResponse.content).map((e: string) => {
-      return {
-        name: e,
-        value: e,
-      };
-    });
+    const choices = JSON.parse(listResponse.content as string).map(
+      (e: string) => {
+        return {
+          name: e,
+          value: e,
+        };
+      },
+    );
     const result = await checkbox({
       message: `${requiredQuestion}: `,
       choices,
@@ -156,7 +155,7 @@ const main = async () => {
     const extension = path.split(".").pop();
     const outputPath = path.replace(`.${extension}`, `_refined.${extension}`);
 
-    fs.writeFile(outputPath, finalResponse.content, (err) => {
+    fs.writeFile(outputPath, finalResponse.content as string, (err) => {
       if (err) throw err;
       console.log("Output saved to file!");
     });

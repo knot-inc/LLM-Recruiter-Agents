@@ -12,6 +12,7 @@
   "author": "tomo",
   "license": "MIT",
   "devDependencies": {
+    "@langchain/scripts": "^0.0.10",
     "@tsconfig/node18": "18.2.1",
     "@types/eslint": "^8.44.2",
     "@types/eslint-plugin-prettier": "^3.1.0",
@@ -57,11 +58,20 @@
   "dependencies": {
     "@inquirer/prompts": "^3.1.2",
     "@json2csv/plainjs": "^7.0.3",
+    "@langchain/community": "^0.0.43",
+    "@langchain/core": "0.1.53",
+    "@langchain/openai": "^0.0.25",
     "airtable": "^0.12.2",
     "hnswlib-node": "^2.0.0",
     "html-to-text": "^9.0.5",
-    "langchain": "^0.0.153",
+    "langchain": "^0.1.30",
     "mongodb": "^6.2.0",
     "zod": "^3.22.2"
+  },
+  "pnpm": {
+    "overrides": {
+      "@langchain/core": "0.1.53",
+      "zod": "3.22.4"
+    }
   }
 }
